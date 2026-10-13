@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initHardwareLab();
   initNavScroll();
   initStatCounters();
+  initMobileMenu();
 });
 
 /* ==========================================================================
@@ -494,6 +495,28 @@ function initNavScroll() {
       if (link.getAttribute('href') === `#${current}`) {
         link.classList.add('active');
       }
+    });
+  });
+}
+
+function initMobileMenu() {
+  const toggleBtn = document.getElementById('mobile-toggle-btn');
+  const navLinks = document.querySelector('.nav-links');
+  if (!toggleBtn || !navLinks) return;
+
+  toggleBtn.addEventListener('click', () => {
+    const isOpen = navLinks.classList.toggle('nav-active');
+    toggleBtn.classList.toggle('is-open', isOpen);
+    toggleBtn.setAttribute('aria-expanded', isOpen);
+    document.body.style.overflow = isOpen ? 'hidden' : '';
+  });
+
+  navLinks.querySelectorAll('.nav-link').forEach(link => {
+    link.addEventListener('click', () => {
+      navLinks.classList.remove('nav-active');
+      toggleBtn.classList.remove('is-open');
+      toggleBtn.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
     });
   });
 }
