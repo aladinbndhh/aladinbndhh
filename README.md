@@ -3,8 +3,9 @@
 # Mohammed Ala Eddine Benhammou
 ### Senior Systems & Enterprise Solutions Specialist | Senior Odoo Full-Stack Developer & ERP Solutions Architect
 
-[![Odoo Belgium Target](https://img.shields.io/badge/🎯_Targeting_Roles-Odoo_Belgium_🇧🇪-714B67?style=for-the-badge&logo=odoo&logoColor=white)](mailto:b.aladinmed@gmail.com)
+[![Enterprise Odoo Architect](https://img.shields.io/badge/Enterprise_Architect-Odoo_14--18-714B67?style=for-the-badge&logo=odoo&logoColor=white)](mailto:b.aladinmed@gmail.com)
 [![NextMove Solutions](https://img.shields.io/badge/Odoo_Gold_Partner-NextMove_Solutions-017E84?style=for-the-badge&logo=odoo&logoColor=white)](https://nextmove.qa)
+[![599+ Modules](https://img.shields.io/badge/Production_Modules-599+_Engineered-0984e3?style=for-the-badge&logo=git&logoColor=white)](mailto:b.aladinmed@gmail.com)
 [![Languages](https://img.shields.io/badge/Trilingual-French_•_English_•_Arabic-2ecc71?style=for-the-badge)](mailto:b.aladinmed@gmail.com)
 
 <br/>
@@ -22,14 +23,15 @@
 
 <br/>
 
-## 🇧🇪 Why Odoo Belgium? (Louvain-la-Neuve / Grand-Rosière / Brussels)
+## 🏛️ Executive Technical Profile & Enterprise Mastery
 
-As a Senior Odoo Solutions Architect with an **Odoo Gold Partner** (NextMove Solutions) and **599+ custom Odoo modules** developed and maintained across versions **14.0 through 18.0**, I am actively seeking to bring my technical mastery, product vision, and enterprise integration skills directly to **Odoo SA Headquarters in Belgium**.
+High-impact **Senior Systems Engineer & Full-Stack Solutions Architect** with extensive experience designing, integrating, and maintaining mission-critical IT infrastructure, enterprise ERP/SIS platforms, and campus-wide hardware networks with an **Odoo Gold Partner** (NextMove Solutions).
 
-- **Bilingual French & English Proficiency**: Ready for immediate integration in Wallonia / Brussels engineering teams and global client communication.
-- **Deep Framework Mastery**: Inside-out knowledge of Odoo ORM, OWL (Odoo Web Library), QWeb, XML-RPC, Model Inheritance, Automated Actions, and custom Controllers.
-- **Enterprise-Scale Deployments**: Proven track record delivering complex digital transformations for national agencies (NCSA), universities (Lusail University), and commercial chains (Qatar Cinema).
+- **599+ Custom Enterprise Modules**: Proven track record developing and deploying robust modules across Odoo **14.0 through 18.0**.
+- **Deep Framework Mastery**: Inside-out knowledge of the Odoo ORM, OWL (Odoo Web Library), QWeb, XML-RPC, Model Inheritance, Automated Actions, and custom Controllers.
 - **Physical-to-Cloud Integration**: Rare specialty bridging Odoo backend with endpoint hardware (payment kiosks, biometric time attendance, BOCA thermal printers, POS peripherals).
+- **Enterprise-Scale Deployments**: Delivered complex digital transformations for government entities (**National Cyber Security Agency - NCSA**), higher-education campuses (**Lusail University**), and commercial entertainment networks (**Qatar Cinema**).
+- **Trilingual Communication**: Fluent in English, French (Bilingual Proficiency), and Arabic (Native).
 
 ---
 
@@ -82,7 +84,7 @@ As a Senior Odoo Solutions Architect with an **Odoo Gold Partner** (NextMove Sol
 
 ### 1. 🎓 Lusail University — Campus ERP, SIS Integration & Automated Payment Kiosks
 * **Architecture**: Deep integration of Odoo ERP with **Ellucian Banner SIS** (Student Information System).
-* **Hardware Innovation**: Engineered end-to-end self-service tuition payment kiosks for campus students, handling peripheral drivers, secure payment gateway protocols, and instant student ledger balance synchronization.
+* **Hardware Innovation**: Engineered end-to-end self-service tuition payment kiosks for campus students, managing hardware peripheral drivers, local network security, gateway protocols, and instant student ledger balance synchronization.
 * **Modules**: Multi-level financial approvals, academic faculty payroll, attendance-payroll sync, digital document signing.
 
 ### 2. 🎬 Qatar Cinema — Centralized Enterprise ERP & Venue POS Infrastructure
@@ -144,9 +146,9 @@ As a Senior Odoo Solutions Architect with an **Odoo Gold Partner** (NextMove Sol
 
 ---
 
-## 📬 Get in Touch / Hiring Inquiries
+## 📬 Contact & Technical Collaboration
 
-I am actively open to discussing Senior Developer, Solutions Architect, and Technical Consultant roles with the **Odoo team in Belgium**.
+Available for Senior Systems Architect, Odoo Technical Lead, and Enterprise Solutions consultations & engagements.
 
 - 📧 **Direct Email**: [b.aladinmed@gmail.com](mailto:b.aladinmed@gmail.com)
 - 💬 **WhatsApp**: [+974 31410671](https://wa.me/97431410671)
@@ -154,5 +156,5 @@ I am actively open to discussing Senior Developer, Solutions Architect, and Tech
 - 📁 **Interactive Portfolio**: [Launch Web Portfolio](./portfolio/index.html)
 
 <div align="center">
-  <sub>Designed with precision for Odoo Belgium • Mohammed Ala Eddine Benhammou</sub>
+  <sub>Engineered with precision • Mohammed Ala Eddine Benhammou</sub>
 </div>
