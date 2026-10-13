@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-b.aladinmed@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:b.aladinmed@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Explore_Work-6c5ce7?style=flat-square&logo=safari&logoColor=white)](./index.html)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-aladinbndhh.vercel.app-6c5ce7?style=flat-square&logo=safari&logoColor=white)](https://aladinbndhh.vercel.app/)
 [![Resume](https://img.shields.io/badge/Curriculum_Vitae-View_Odoo_CV-00b894?style=flat-square&logo=read-the-docs&logoColor=white)](./RESUME.md)
 
 ---
@@ -165,7 +165,7 @@ Available for Senior Systems Architect, Odoo Technical Lead, and Enterprise Solu
 - 📧 **Direct Email**: [b.aladinmed@gmail.com](mailto:b.aladinmed@gmail.com)
 - 💬 **WhatsApp**: [+974 31410671](https://wa.me/97431410671)
 - 🌐 **GitHub**: [@aladinbndhh](https://github.com/aladinbndhh)
-- 📁 **Interactive Portfolio**: [Launch Web Portfolio](./index.html)
+- 📁 **Live Web Portfolio**: [aladinbndhh.vercel.app](https://aladinbndhh.vercel.app/)
 - 📄 **Odoo Curriculum Vitae**: [View Markdown CV](./RESUME.md) | [Download PDF CV](./assets/Mohammed_Ala_Eddine_Benhammou_Resume.pdf)
 
 <div align="center">

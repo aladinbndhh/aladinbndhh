@@ -1,7 +1,7 @@
 # MOHAMMED ALA EDDINE BENHAMMOU
 **Senior Odoo Full-Stack Developer & ERP Solutions Architect**  
 📍 Doha, Qatar | 📞 +974 31410671 | ✉️ [b.aladinmed@gmail.com](mailto:b.aladinmed@gmail.com)  
-💻 **GitHub:** [github.com/aladinbndhh](https://github.com/aladinbndhh)  
+💻 **GitHub:** [github.com/aladinbndhh](https://github.com/aladinbndhh) | 🌐 **Portfolio:** [aladinbndhh.vercel.app](https://aladinbndhh.vercel.app/)  
 
 ---
 
