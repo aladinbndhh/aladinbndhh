@@ -1,0 +1,4794 @@
+[
+  {
+    "folder": "bank_account_info_invoice",
+    "repo": "nextmove-bb-apps",
+    "name": "SW - Bank Account Info Invoice",
+    "version": "1.1",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nextmove-bb-apps",
+    "name": "SW - Journal Entry Reports",
+    "version": "1.3",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me",
+    "repo": "nextmove-bb-apps",
+    "name": "Middle East - Accounting",
+    "version": "14.0.1.2",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me_account_asset",
+    "repo": "nextmove-bb-apps",
+    "name": "Middle East - Accounting Assets",
+    "version": "14.0.1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-bb-apps",
+    "name": "Qatar - Accounting",
+    "version": "1.3",
+    "category": "Accounting/Localizations/Account Charts",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me",
+    "repo": "nextmove-ehq-apps",
+    "name": "Middle East - Accounting",
+    "version": "1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me_account_asset",
+    "repo": "nextmove-ehq-apps",
+    "name": "Middle East - Accounting Assets",
+    "version": "1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-ehq-apps",
+    "name": "Qatar - Accounting",
+    "version": "1.0",
+    "category": "Accounting/Localizations/Account Charts",
+    "summary": ""
+  },
+  {
+    "folder": "nm_account_receipt_payment",
+    "repo": "nextmove-ehq-apps",
+    "name": "NM - Receipts",
+    "version": "16.0.1.0.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "nm_bank_account_info_invoice",
+    "repo": "nextmove-ehq-apps",
+    "name": "NM - Bank Account Info Invoice",
+    "version": "16.0.1.0.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "nm_finance_reports_account_filter",
+    "repo": "nextmove-ehq-apps",
+    "name": "NM - Finance Reports account filter",
+    "version": "16.0.1.0.0",
+    "category": "Accounting",
+    "summary": "summary....."
+  },
+  {
+    "folder": "nm_journal_entry_report",
+    "repo": "nextmove-ehq-apps",
+    "name": "NM - Journal Entry Reports",
+    "version": "16.0.1.0.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "nm_payment_voucher_report",
+    "repo": "nextmove-ehq-apps",
+    "name": "NM - Payment Voucher Report",
+    "version": "16.0.1.0.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "nm_pos_report",
+    "repo": "nextmove-ehq-apps",
+    "name": "NM - Custom PoS Report",
+    "version": "1.1",
+    "category": "Point of Sale",
+    "summary": "Add Arabic to the PoS reprot"
+  },
+  {
+    "folder": "pos_receipt_change",
+    "repo": "nextmove-ehq-apps",
+    "name": "Pos Receipt Arabic",
+    "version": "16.0.1.0.0",
+    "category": "Point of Sale",
+    "summary": ""
+  },
+  {
+    "folder": "product_label_arabic",
+    "repo": "nextmove-ehq-apps",
+    "name": "Product Label Arabic",
+    "version": "16.0",
+    "category": "Product",
+    "summary": "Product Arabic Labels"
+  },
+  {
+    "folder": "external_api",
+    "repo": "nextmove-ehq-custom",
+    "name": "NM - External API",
+    "version": "0.2",
+    "category": "Tools",
+    "summary": ""
+  },
+  {
+    "folder": "nm_product_custom",
+    "repo": "nextmove-ehq-custom",
+    "name": "NM - Products Custom",
+    "version": "0.1",
+    "category": "Products",
+    "summary": ""
+  },
+  {
+    "folder": "account_pdcs",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - Post Dated Cheques Management",
+    "version": "12.0.1.1",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "account_receipt_payment",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - Receipts",
+    "version": "12.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "approvals_engine",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - Approvals Engine",
+    "version": "12.0.1.1",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "base_leave",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - HR Base Leave",
+    "version": "12.0.1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "base_payroll_qa",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - HR Base Payroll Qatar",
+    "version": "12.0.2.1",
+    "category": "Human Resources",
+    "summary": "Eliminates work scheduled mismatch & Calculate actual working days."
+  },
+  {
+    "folder": "do_cost_analytic",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - DO Cost Analytic",
+    "version": "12.0.1.0",
+    "category": "Warehouse",
+    "summary": "Adds a new field in DO and journal entry called Analytic Account"
+  },
+  {
+    "folder": "general_contracting_invoicing_management",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - General Contracting - Invoicing Policies",
+    "version": "12.0.1.1",
+    "category": "Account",
+    "summary": ""
+  },
+  {
+    "folder": "hr_eosb",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - End Of Service Benefits",
+    "version": "12.0.1.2",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "hr_penalties",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - HR Penalties",
+    "version": "12.0.1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "import_inventory_qty",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - Import Qty to Inventory",
+    "version": "2.0",
+    "category": "Warehouse",
+    "summary": "Create inventory adjustments from excel sheet"
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - Journal Entry Reports",
+    "version": "12.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - Qatar Accounting",
+    "version": "12.0.1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_employees",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - Qatar Employee",
+    "version": "12.0.1.0",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_payroll",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - Qatar Payroll Localization",
+    "version": "12.0.1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_wps",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SIF - WPS Report",
+    "version": "12.0.1.2",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "margin_on_quotation",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - Margin On Quotation",
+    "version": "12.0.1.1",
+    "category": "ESHHAR",
+    "summary": ""
+  },
+  {
+    "folder": "mto_rfq_no_merge",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - Prevent RFQ Merge",
+    "version": "12.0.1.1",
+    "category": "Purchases",
+    "summary": ""
+  },
+  {
+    "folder": "order_line_sequence",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - Order Line Sequence",
+    "version": "12.0.1.2",
+    "category": "Extra Tools",
+    "summary": ""
+  },
+  {
+    "folder": "partner_project_ledger",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - Partner Project Ledger",
+    "version": "12.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "payment_report_enhancement",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - Payment Report Enhancement",
+    "version": "12.0.1.3",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "project_native",
+    "repo": "nextmove-eshhar-apps",
+    "name": "project_native",
+    "version": "12.19.12.02.0",
+    "category": "Project",
+    "summary": ""
+  },
+  {
+    "folder": "project_native_exchange",
+    "repo": "nextmove-eshhar-apps",
+    "name": "project_native_exchange",
+    "version": "12.19.7.30.0",
+    "category": "Project",
+    "summary": ""
+  },
+  {
+    "folder": "project_native_report",
+    "repo": "nextmove-eshhar-apps",
+    "name": "project_native_report",
+    "version": "12.19.06.19.1",
+    "category": "Project",
+    "summary": ""
+  },
+  {
+    "folder": "project_revenue_accrual_ifrs",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - Project Revenue Accrual IFRS",
+    "version": "12.0.3.7",
+    "category": "Project",
+    "summary": "Recognize your revenue per IFRS 15 POC (Cost to Cost) method"
+  },
+  {
+    "folder": "qatar_leave_salary",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - Qatar Leave Salary",
+    "version": "12.0.1.3",
+    "category": "Human Resources",
+    "summary": "Manage Leave Salary."
+  },
+  {
+    "folder": "quotation_revisions",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - Quotation Revisions",
+    "version": "12.0.1.2",
+    "category": "Sales",
+    "summary": "Revise and keep track of all sale orders history with ease"
+  },
+  {
+    "folder": "stock_moves_track",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - Stock Moves Tracking",
+    "version": "1.0",
+    "category": "Warehouse",
+    "summary": ""
+  },
+  {
+    "folder": "stock_return_price",
+    "repo": "nextmove-eshhar-apps",
+    "name": "SW - Stock Return Price",
+    "version": "12.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "theme_scita",
+    "repo": "nextmove-eshhar-apps",
+    "name": "Theme Scita",
+    "version": "12.0.1.2.9",
+    "category": "Theme/Ecommerce",
+    "summary": ""
+  },
+  {
+    "folder": "theme_scita_wo_ecommerce",
+    "repo": "nextmove-eshhar-apps",
+    "name": "Theme Scita Without E-commerce",
+    "version": "12.0.1.3.0",
+    "category": "Theme/Ecommerce",
+    "summary": ""
+  },
+  {
+    "folder": "web_gantt_native",
+    "repo": "nextmove-eshhar-apps",
+    "name": "web_gantt_native",
+    "version": "12.19.12.02.0",
+    "category": "Project",
+    "summary": ""
+  },
+  {
+    "folder": "web_widget_colorpicker",
+    "repo": "nextmove-eshhar-apps",
+    "name": "web_widget_colorpicker",
+    "version": "12.18.10.11.0",
+    "category": "Project",
+    "summary": ""
+  },
+  {
+    "folder": "web_widget_time_delta",
+    "repo": "nextmove-eshhar-apps",
+    "name": "web_widget_time_delta",
+    "version": "12.19.07.30.0",
+    "category": "Project",
+    "summary": ""
+  },
+  {
+    "folder": "account_extra_fields",
+    "repo": "nextmove-eshhar-custom",
+    "name": "SW - Account Extra Fields",
+    "version": "12.0.1.3",
+    "category": "ESHHAR",
+    "summary": ""
+  },
+  {
+    "folder": "crm_extra_fields",
+    "repo": "nextmove-eshhar-custom",
+    "name": "SW - CRM Extra Fields",
+    "version": "12.0.1.0",
+    "category": "ESHHAR",
+    "summary": ""
+  },
+  {
+    "folder": "external_templates",
+    "repo": "nextmove-eshhar-custom",
+    "name": "SW - External Templates",
+    "version": "12.0.2.0",
+    "category": "ESHHAR",
+    "summary": ""
+  },
+  {
+    "folder": "general_contracting_invoicing_management_ext",
+    "repo": "nextmove-eshhar-custom",
+    "name": "SW - General Contracting - Invoicing Policies Ext.",
+    "version": "12.0.1.1",
+    "category": "Account",
+    "summary": ""
+  },
+  {
+    "folder": "hr_leave_customization",
+    "repo": "nextmove-eshhar-custom",
+    "name": "SW - Leaves Customization",
+    "version": "12.0.1.0",
+    "category": "ESHHAR",
+    "summary": ""
+  },
+  {
+    "folder": "payslip_batch_view_enhancement",
+    "repo": "nextmove-eshhar-custom",
+    "name": "SW - Payslip Batch View Enhancement",
+    "version": "12.0.1.7",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "project_task_progress",
+    "repo": "nextmove-eshhar-custom",
+    "name": "SW - Project Task Progress",
+    "version": "12.0.1.0",
+    "category": "ESHHAR",
+    "summary": ""
+  },
+  {
+    "folder": "quotation_templates",
+    "repo": "nextmove-eshhar-custom",
+    "name": "SW - Quotation Templates",
+    "version": "12.0.1.2",
+    "category": "ESHHAR",
+    "summary": ""
+  },
+  {
+    "folder": "sol_import_wizard",
+    "repo": "nextmove-eshhar-custom",
+    "name": "SW - SOL Import Wizard",
+    "version": "12.0.1.2",
+    "category": "ESHHAR",
+    "summary": ""
+  },
+  {
+    "folder": "so_po_extra_fields",
+    "repo": "nextmove-eshhar-custom",
+    "name": "SW - So Po Extra Fields",
+    "version": "12.0.1.5",
+    "category": "ESHHAR",
+    "summary": ""
+  },
+  {
+    "folder": "timesheet_creation_constraints",
+    "repo": "nextmove-eshhar-custom",
+    "name": "SW - TimeSheet Creation Constraints",
+    "version": "12.0.1.0",
+    "category": "Eshhar",
+    "summary": ""
+  },
+  {
+    "folder": "traffic_camera",
+    "repo": "nextmove-eshhar-custom",
+    "name": "SW - Cameras Location",
+    "version": "12.0.1.9",
+    "category": "ESHHAR",
+    "summary": ""
+  },
+  {
+    "folder": "web_google_maps",
+    "repo": "nextmove-eshhar-custom",
+    "name": "Web Google Maps",
+    "version": "12.0.1.0.4",
+    "category": "Extra Tools",
+    "summary": ""
+  },
+  {
+    "folder": "purchase_approval",
+    "repo": "nextmove-genius-custom",
+    "name": "SW - Purchase Approval",
+    "version": "11.0.1.0",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "attendance_payroll",
+    "repo": "nextmove-ibmc-apps",
+    "name": "NM - Attendance Payroll",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "bank_account_info_invoice",
+    "repo": "nextmove-ibmc-apps",
+    "name": "SW - Bank Account Info Invoice",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "base_payroll",
+    "repo": "nextmove-ibmc-apps",
+    "name": "NM - HR Base Payroll",
+    "version": "1.5",
+    "category": "Human Resources",
+    "summary": "Enhancement on the Payroll Workflow"
+  },
+  {
+    "folder": "hr_attendance_work_hours",
+    "repo": "nextmove-ibmc-apps",
+    "name": "NM - HR Attendance Work Hours",
+    "version": "1.3",
+    "category": "HR",
+    "summary": "Enhancement on Odoo"
+  },
+  {
+    "folder": "hr_loan",
+    "repo": "nextmove-ibmc-apps",
+    "name": "NM - Employee Loans Management",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "One significant module to manage all your employees loans"
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nextmove-ibmc-apps",
+    "name": "SW - Journal Entry Reports",
+    "version": "1.2",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me",
+    "repo": "nextmove-ibmc-apps",
+    "name": "Middle East - Accounting",
+    "version": "1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me_account_asset",
+    "repo": "nextmove-ibmc-apps",
+    "name": "Middle East - Accounting Assets",
+    "version": "1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-ibmc-apps",
+    "name": "Qatar - Accounting",
+    "version": "1.0",
+    "category": "Accounting/Localizations/Account Charts",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_contract",
+    "repo": "nextmove-ibmc-apps",
+    "name": " NM - Qatar Contract",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_employees",
+    "repo": "nextmove-ibmc-apps",
+    "name": "NM - Qatar Employee",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "This module customizes In-Place the Employees App by adding new fields and functionality to meet the Qatari market needs."
+  },
+  {
+    "folder": "nm_account_receipt_payment",
+    "repo": "nextmove-ibmc-apps",
+    "name": "NM - Receipts",
+    "version": "16.0.1.0.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "nm_bank_account_info_invoice",
+    "repo": "nextmove-ibmc-apps",
+    "name": "NM - Bank Account Info Invoice",
+    "version": "16.0.1.0.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "nm_finance_reports_account_filter",
+    "repo": "nextmove-ibmc-apps",
+    "name": "NM - Finance Reports account filter",
+    "version": "16.0.1.0.0",
+    "category": "Accounting",
+    "summary": "summary....."
+  },
+  {
+    "folder": "nm_hr_payslip_approval",
+    "repo": "nextmove-ibmc-apps",
+    "name": "NM - HR Payslip Approval",
+    "version": "0.1",
+    "category": "HR",
+    "summary": ""
+  },
+  {
+    "folder": "nm_journal_entry_report",
+    "repo": "nextmove-ibmc-apps",
+    "name": "NM - Journal Entry Reports",
+    "version": "16.0.1.0.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "nm_l10n_qa_wps",
+    "repo": "nextmove-ibmc-apps",
+    "name": "SIF - WPS Report",
+    "version": "1.5",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_payment_voucher_report",
+    "repo": "nextmove-ibmc-apps",
+    "name": "NM - Payment Voucher Report",
+    "version": "16.0.1.0.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "nm_qa_eoss",
+    "repo": "nextmove-ibmc-apps",
+    "name": "NM - Qatar End of Service Settelement",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_qa_overtime",
+    "repo": "nextmove-ibmc-apps",
+    "name": "NextMove Qatar Overtime Management",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_subscription_status_helpdesk_ticket",
+    "repo": "nextmove-ibmc-apps",
+    "name": "NM - Show Subscription Status on Helpdesk Ticket",
+    "version": "16.0.1.0.0",
+    "category": "Services/Helpdesk",
+    "summary": "Ticket Analytic"
+  },
+  {
+    "folder": "payroll_extra_fields_rules",
+    "repo": "nextmove-ibmc-apps",
+    "name": "NM - Payroll Extra Fields/Rules",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "Enhancement on employees"
+  },
+  {
+    "folder": "account_pdcs",
+    "repo": "nextmove-iss-apps",
+    "name": "SW - Post Dated Cheques Management",
+    "version": "12.0.1.1",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "account_receipt_payment",
+    "repo": "nextmove-iss-apps",
+    "name": "SW - Receipts",
+    "version": "12.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nextmove-iss-apps",
+    "name": "SW - Journal Entry Reports",
+    "version": "12.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-iss-apps",
+    "name": "SW - Qatar Accounting",
+    "version": "12.0.1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "payment_report_enhancement",
+    "repo": "nextmove-iss-apps",
+    "name": "SW - Payment Report Enhancement",
+    "version": "12.0.1.3",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "quotation_revisions",
+    "repo": "nextmove-iss-apps",
+    "name": "SW - Quotation Revisions",
+    "version": "12.0.1.2",
+    "category": "Sales",
+    "summary": "Revise and keep track of all sale orders history with ease"
+  },
+  {
+    "folder": "composed_technical_and_commercial_quotation",
+    "repo": "nextmove-iss-custom",
+    "name": "SW - Composed Technical and Commercial Quotation",
+    "version": "12.0.1.5",
+    "category": "Sales",
+    "summary": ""
+  },
+  {
+    "folder": "custom_access_rights",
+    "repo": "nextmove-iss-custom",
+    "name": "SW - Custom Access Rights",
+    "version": "12.0.1.1",
+    "category": "ISS",
+    "summary": ""
+  },
+  {
+    "folder": "quotation_revisions_custom",
+    "repo": "nextmove-iss-custom",
+    "name": "SW - Quotation Revisions Custom",
+    "version": "12.0.1.2",
+    "category": "Sales",
+    "summary": "Revise and keep track of all sale orders history with ease"
+  },
+  {
+    "folder": "report_qweb_element_page_visibility",
+    "repo": "nextmove-iss-custom",
+    "name": "SW - Report Qweb Element Page Visibility",
+    "version": "12.0.1.0.0",
+    "category": "Tools",
+    "summary": ""
+  },
+  {
+    "folder": "analytic_account_default",
+    "repo": "nextmove-lu-apps",
+    "name": "SW - Analytic Account Default",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "attendance_payroll",
+    "repo": "nextmove-lu-apps",
+    "name": "SW - Attendance Payroll",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "base_payroll",
+    "repo": "nextmove-lu-apps",
+    "name": "SW - HR Base Payroll",
+    "version": "1.5",
+    "category": "Human Resources",
+    "summary": "Enhancement on the Payroll Workflow"
+  },
+  {
+    "folder": "finance_reports_account_filter",
+    "repo": "nextmove-lu-apps",
+    "name": "NM - Finance Reports account filter",
+    "version": "1.0",
+    "category": "NM",
+    "summary": "summary....."
+  },
+  {
+    "folder": "hr_attendance_work_hours",
+    "repo": "nextmove-lu-apps",
+    "name": "SW - HR Attendance Work Hours",
+    "version": "1.3",
+    "category": "HR",
+    "summary": "Enhancement on Odoo"
+  },
+  {
+    "folder": "hr_loan",
+    "repo": "nextmove-lu-apps",
+    "name": "SW - Employee Loans Management",
+    "version": "1.3",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nextmove-lu-apps",
+    "name": "SW - Journal Entry Reports",
+    "version": "1.3",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me",
+    "repo": "nextmove-lu-apps",
+    "name": "Middle East - Accounting",
+    "version": "14.0.1.2",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me_account_asset",
+    "repo": "nextmove-lu-apps",
+    "name": "Middle East - Accounting Assets",
+    "version": "14.0.1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-lu-apps",
+    "name": "Qatar - Accounting",
+    "version": "1.3",
+    "category": "Accounting/Localizations/Account Charts",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_contract",
+    "repo": "nextmove-lu-apps",
+    "name": "NM - Qatar Contract",
+    "version": "1.0",
+    "category": "HR",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_employees",
+    "repo": "nextmove-lu-apps",
+    "name": "NM - Qatar Employee",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "This module customizes In-Place the Employees App by adding new fields and functionality to meet the Qatari market needs."
+  },
+  {
+    "folder": "nm_hr_payslip_approval",
+    "repo": "nextmove-lu-apps",
+    "name": "NM - HR Payslip Approval",
+    "version": "0.1",
+    "category": "HR",
+    "summary": ""
+  },
+  {
+    "folder": "nm_l10n_qa_wps",
+    "repo": "nextmove-lu-apps",
+    "name": "SIF - WPS Report",
+    "version": "1.3",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_qa_eoss",
+    "repo": "nextmove-lu-apps",
+    "name": "NM - Qatar End of Service Settelement",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_qa_overtime",
+    "repo": "nextmove-lu-apps",
+    "name": "NextMove Qatar Overtime Management",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_qa_time_off",
+    "repo": "nextmove-lu-apps",
+    "name": "NM - Time Off Customization",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "payroll_extra_fields_rules",
+    "repo": "nextmove-lu-apps",
+    "name": "SW - Payroll Extra Fields/Rules",
+    "version": "1.2",
+    "category": "Human Resources",
+    "summary": "Enhancement on employees"
+  },
+  {
+    "folder": "payroll_extra_fields_rules_ext",
+    "repo": "nextmove-lu-apps",
+    "name": "SW - Payroll Extra Fields/Rules Ext",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "Enhancement on employees"
+  },
+  {
+    "folder": "accounts_json_api",
+    "repo": "nextmove-lu-custom",
+    "name": "SW - Banner SIS Integration",
+    "version": "1.0",
+    "category": "Accounts",
+    "summary": ""
+  },
+  {
+    "folder": "account_fix_analytic",
+    "repo": "nextmove-lu-custom",
+    "name": "Account Fix Analytic Distribution",
+    "version": "17.0.1.0.0",
+    "category": "Accounting",
+    "summary": "Fix analytic distribution error (invalid literal for int: "
+  },
+  {
+    "folder": "account_payment_approval",
+    "repo": "nextmove-lu-custom",
+    "name": "Payment Approvals",
+    "version": "16.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "analytic_account_default",
+    "repo": "nextmove-lu-custom",
+    "name": "SW - Analytic Account Default",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "approval_reminder",
+    "repo": "nextmove-lu-custom",
+    "name": "Approval Reminder",
+    "version": "1.0",
+    "category": "Tools",
+    "summary": "Send reminder for pending approvals after 5 days"
+  },
+  {
+    "folder": "approver_mangment",
+    "repo": "nextmove-lu-custom",
+    "name": "Approval activity management",
+    "version": "17.0",
+    "category": "Base",
+    "summary": ""
+  },
+  {
+    "folder": "attendance_payroll",
+    "repo": "nextmove-lu-custom",
+    "name": "SW - Attendance Payroll",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "base_payroll",
+    "repo": "nextmove-lu-custom",
+    "name": "SW - HR Base Payroll",
+    "version": "1.5",
+    "category": "Human Resources",
+    "summary": "Enhancement on the Payroll Workflow"
+  },
+  {
+    "folder": "boraq_purchase_request",
+    "repo": "nextmove-lu-custom",
+    "name": "Purchase Request",
+    "version": "17.0",
+    "category": "Purchases",
+    "summary": "Purchase Request is an alternative and simple module to Approvals"
+  },
+  {
+    "folder": "bt_asset_management",
+    "repo": "nextmove-lu-custom",
+    "name": "Asset Management",
+    "version": "0.2",
+    "category": "Operations",
+    "summary": "Asset Management"
+  },
+  {
+    "folder": "child_contracts",
+    "repo": "nextmove-lu-custom",
+    "name": "Child Contracts",
+    "version": "1.0",
+    "category": "Human Resources/Contracts",
+    "summary": "Manage child contracts for employees"
+  },
+  {
+    "folder": "customer_seq",
+    "repo": "nextmove-lu-custom",
+    "name": "Customer Sequence",
+    "version": "16.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "custom_student_fields",
+    "repo": "nextmove-lu-custom",
+    "name": "Custom Student Fields",
+    "version": "1.0",
+    "category": "Uncategorized",
+    "summary": "Add student_qid to Customer and term fields to Invoice"
+  },
+  {
+    "folder": "department_director_group",
+    "repo": "nextmove-lu-custom",
+    "name": "Department Director Access & Purchase Requests",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "New user group for Department Directors with purchase request restrictions"
+  },
+  {
+    "folder": "digital_signature",
+    "repo": "nextmove-lu-custom",
+    "name": "Digital Signature In Purchase Order, Invoice, Inventory",
+    "version": "17.0.1.0.0",
+    "category": "Extra Tools",
+    "summary": "Enhance Security with Digital Signatures in Purchase Orders, "
+  },
+  {
+    "folder": "email_force_sender",
+    "repo": "nextmove-lu-custom",
+    "name": "Email Force Sender",
+    "version": "17.0.1.0.0",
+    "category": "Mail",
+    "summary": "Force all outgoing emails to use LU Odoo Notifications sender"
+  },
+  {
+    "folder": "employee_faculty_type",
+    "repo": "nextmove-lu-custom",
+    "name": "Employee Faculty Type",
+    "version": "17.0.1.0.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "employee_full_name",
+    "repo": "nextmove-lu-custom",
+    "name": "Employee First Name, Middle Name & Last Name",
+    "version": "1.0",
+    "category": "Employee",
+    "summary": ""
+  },
+  {
+    "folder": "ent_employee_documents_expiry",
+    "repo": "nextmove-lu-custom",
+    "name": "Enterprise Open HRMS Employee Documents",
+    "version": "17.0.1.0.0",
+    "category": "Generic Modules/Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "ent_hr_holidays_approval",
+    "repo": "nextmove-lu-custom",
+    "name": "Enterprise Open HRMS Leave Multi-Level Approval",
+    "version": "17.0.1.0.0",
+    "category": "Generic Modules/Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "finance_reports_account_filter",
+    "repo": "nextmove-lu-custom",
+    "name": "NM - Finance Reports account filter",
+    "version": "1.0",
+    "category": "NM",
+    "summary": "summary....."
+  },
+  {
+    "folder": "hr_attendance_work_hours",
+    "repo": "nextmove-lu-custom",
+    "name": "SW - HR Attendance Work Hours",
+    "version": "1.0",
+    "category": "HR",
+    "summary": "Enhancement on Odoo"
+  },
+  {
+    "folder": "hr_employee_public_extension",
+    "repo": "nextmove-lu-custom",
+    "name": "HR Employee Public Extension",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "Expose Arabic fields to public employee records"
+  },
+  {
+    "folder": "hr_employee_updation",
+    "repo": "nextmove-lu-custom",
+    "name": "OpenHRMS Employee Info",
+    "version": "17.0.1.0.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "hr_end_of_services",
+    "repo": "nextmove-lu-custom",
+    "name": "End of Services Reward",
+    "version": "17.0.1.0.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "hr_loan",
+    "repo": "nextmove-lu-custom",
+    "name": "SW - Employee Loans Management",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "One significant module to manage all your employees loans"
+  },
+  {
+    "folder": "hr_payroll_community",
+    "repo": "nextmove-lu-custom",
+    "name": "Odoo 17 HR Payroll",
+    "version": "17.0.1.0.0",
+    "category": "Human Resources",
+    "summary": "Odoo 17 HR Payroll, payroll, Odoo17 Payroll, Odoo Payroll, Payroll, Odoo17 Payslips, Employee Payroll, HR Payroll,Odoo17, Odoo17 HR, odoo hr,odoo17, Accounting,Odoo Apps"
+  },
+  {
+    "folder": "hr_resignation",
+    "repo": "nextmove-lu-custom",
+    "name": "Open HRMS Resignation",
+    "version": "17.0.1.0.0",
+    "category": "Human Resources",
+    "summary": "Manages the resignation process of the employees"
+  },
+  {
+    "folder": "inventory_approval",
+    "repo": "nextmove-lu-custom",
+    "name": "Inventory approval management",
+    "version": "17.0",
+    "category": "Base",
+    "summary": ""
+  },
+  {
+    "folder": "inventory_ext",
+    "repo": "nextmove-lu-custom",
+    "name": "Category-Based Store Location Management",
+    "version": "17.0",
+    "category": "Inventory",
+    "summary": "Assign default store locations to product categories."
+  },
+  {
+    "folder": "invoice_ji_partner_set",
+    "repo": "nextmove-lu-custom",
+    "name": "SW - JIs Partner Set",
+    "version": "1.0",
+    "category": "Accounts",
+    "summary": ""
+  },
+  {
+    "folder": "invoice_term_id",
+    "repo": "nextmove-lu-custom",
+    "name": "MAVEN - EXTRA FIELDS IN INVOICE REPORT",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "inv_payment_privileges",
+    "repo": "nextmove-lu-custom",
+    "name": "SW - Invoice Payment Privileges",
+    "version": "1.0",
+    "category": "Lusail",
+    "summary": ""
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nextmove-lu-custom",
+    "name": "SW - Journal Entry Reports",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "ks_dashboard_ninja",
+    "repo": "nextmove-lu-custom",
+    "name": "Dashboard Ninja with AI",
+    "version": "17.0.2.4.8",
+    "category": "Services",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me",
+    "repo": "nextmove-lu-custom",
+    "name": "Middle East - Accounting",
+    "version": "1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me_account_asset",
+    "repo": "nextmove-lu-custom",
+    "name": "Middle East - Accounting Assets",
+    "version": "1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-lu-custom",
+    "name": "Qatar - Accounting",
+    "version": "1.0",
+    "category": "Accounting/Localizations/Account Charts",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_contract",
+    "repo": "nextmove-lu-custom",
+    "name": "NM - Qatar Contract",
+    "version": "1.0",
+    "category": "HR",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_employees",
+    "repo": "nextmove-lu-custom",
+    "name": "NM - Qatar Employee",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "This module customizes In-Place the Employees App by adding new fields and functionality to meet the Qatari market needs."
+  },
+  {
+    "folder": "move_copy_clear_name",
+    "repo": "nextmove-lu-custom",
+    "name": "Journal Entry Duplicate Fix",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": "Clears name when duplicating journal entries to avoid unique constraint error"
+  },
+  {
+    "folder": "multiple_request",
+    "repo": "nextmove-lu-custom",
+    "name": "Purchase Request Multiple vendors",
+    "version": "17.0",
+    "category": "Purchases",
+    "summary": "Purchase Request for multiple vendors"
+  },
+  {
+    "folder": "multi_vendor_price_chatter",
+    "repo": "nextmove-lu-custom",
+    "name": "Multi Vendor Price Chatter",
+    "version": "1.0",
+    "category": "Custom",
+    "summary": "Adds chatter to Multi Vendor Price model"
+  },
+  {
+    "folder": "nm_auto_badge",
+    "repo": "nextmove-lu-custom",
+    "name": "Employee Badge Auto Generator",
+    "version": "17.0",
+    "category": "Human Resources",
+    "summary": "Automatically analyze and generate employee badge IDs in barcode field"
+  },
+  {
+    "folder": "nm_hr_payslip_approval",
+    "repo": "nextmove-lu-custom",
+    "name": "NM - HR Payslip Approval",
+    "version": "1.0",
+    "category": "HR",
+    "summary": ""
+  },
+  {
+    "folder": "nm_l10n_qa_wps",
+    "repo": "nextmove-lu-custom",
+    "name": "SIF - WPS Report",
+    "version": "1.5",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_qa_eoss",
+    "repo": "nextmove-lu-custom",
+    "name": "NM - Qatar End of Service Settelement",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_qa_overtime",
+    "repo": "nextmove-lu-custom",
+    "name": "NextMove Qatar Overtime Management",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_qa_time_off",
+    "repo": "nextmove-lu-custom",
+    "name": "NM - Time Off Customization",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "odoo_custom_login_inf",
+    "repo": "nextmove-lu-custom",
+    "name": "Customize Login Page",
+    "version": "0.1",
+    "category": "Tools",
+    "summary": "Customize Login Page"
+  },
+  {
+    "folder": "oi_hr_name_arabic",
+    "repo": "nextmove-lu-custom",
+    "name": "Employee Arabic Name",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "Employee Arabic Name"
+  },
+  {
+    "folder": "partner_ledger_custom",
+    "repo": "nextmove-lu-custom",
+    "name": "Partner Ledger customer",
+    "version": "17.0.0.1",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "partner_ledger_ref",
+    "repo": "nextmove-lu-custom",
+    "name": "SW - Partner Ledger with Reference",
+    "version": "1.0",
+    "category": "Accounts",
+    "summary": ""
+  },
+  {
+    "folder": "payroll_extra_fields_rules",
+    "repo": "nextmove-lu-custom",
+    "name": "SW - Payroll Extra Fields/Rules",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "Enhancement on employees"
+  },
+  {
+    "folder": "payroll_extra_fields_rules_ext",
+    "repo": "nextmove-lu-custom",
+    "name": "SW - Payroll Extra Fields/Rules Ext",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "Enhancement on employees"
+  },
+  {
+    "folder": "portal_leave_knk",
+    "repo": "nextmove-lu-custom",
+    "name": "Portal Leaves",
+    "version": "17.0.1.0.0",
+    "category": "Human Resources/Time Off",
+    "summary": ""
+  },
+  {
+    "folder": "po_estimate_vendor_selection",
+    "repo": "nextmove-lu-custom",
+    "name": "PO Estimate & Vendor Selection",
+    "version": "1.0",
+    "category": "Purchases",
+    "summary": "Adds estimate amount and vendor selection rules to Purchase Order"
+  },
+  {
+    "folder": "pr_to_po",
+    "repo": "nextmove-lu-custom",
+    "name": "PR To PO",
+    "version": "16.0",
+    "category": "Purchase",
+    "summary": ""
+  },
+  {
+    "folder": "purchase_empty_picking_type",
+    "repo": "nextmove-lu-custom",
+    "name": "Purchase Empty Picking Type",
+    "version": "1.0",
+    "category": "Uncategorized",
+    "summary": "Make Deliver To (Picking Type) empty by default but required in Purchase Orders"
+  },
+  {
+    "folder": "purchase_unit_price",
+    "repo": "nextmove-lu-custom",
+    "name": "Custom Purchase Precision",
+    "version": "1.0",
+    "category": "Purchases",
+    "summary": "Change rounding precision of unit price in purchase order line"
+  },
+  {
+    "folder": "pways_quotations_comparison_dashboard",
+    "repo": "nextmove-lu-custom",
+    "name": "RFQ Comparison Dashboard",
+    "version": "17.0",
+    "category": "purchases",
+    "summary": ""
+  },
+  {
+    "folder": "request_type",
+    "repo": "nextmove-lu-custom",
+    "name": "PR Type",
+    "version": "17.0",
+    "category": "Purchase",
+    "summary": ""
+  },
+  {
+    "folder": "rolac_payment_change_account",
+    "repo": "nextmove-lu-custom",
+    "name": "SW - Rolacc Payments Change Account",
+    "version": "1.0",
+    "category": "Lusai",
+    "summary": ""
+  },
+  {
+    "folder": "s2u_online_appointment",
+    "repo": "nextmove-lu-custom",
+    "name": "Online Appointment",
+    "version": "17.0.1.0",
+    "category": "Website",
+    "summary": "Let visitors book appointments via the website"
+  },
+  {
+    "folder": "semester_invoice_extension",
+    "repo": "nextmove-lu-custom",
+    "name": "Semester Invoice Extension",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "service_da",
+    "repo": "nextmove-lu-custom",
+    "name": "Service Delivery Acceptance",
+    "version": "17.0",
+    "category": "Purchases",
+    "summary": "Adds service delivery acceptance in purchase orders with a smart button"
+  },
+  {
+    "folder": "spiffy_theme_backend_ent",
+    "repo": "nextmove-lu-custom",
+    "name": "Spiffy Backend Enterprise Theme",
+    "version": "1.8",
+    "category": "Themes/Backend",
+    "summary": "The ultimate Odoo Backend theme with the most advanced key features of all time. Get your own personalized view while working on the Backend system with a wide range of choices. Spiffy theme has 3 in 1 Theme Style, Progressive Web App, Fully Responsive for all apps, Configurable Apps Icon, App Drawer with global search, RTL & Multi-Language Support, and many other key features."
+  },
+  {
+    "folder": "sw_account",
+    "repo": "nextmove-lu-custom",
+    "name": "SW - Account",
+    "version": "1.4",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "sw_remaining_balance",
+    "repo": "nextmove-lu-custom",
+    "name": "SW - Remaining Balance",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": "summary..."
+  },
+  {
+    "folder": "trial_balance_term_filter",
+    "repo": "nextmove-lu-custom",
+    "name": "Trail Balance - Term Filter",
+    "version": "17.0.0.0.1",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "vb_assets_auto_cancel",
+    "repo": "nextmove-lu-custom",
+    "name": "SW - VB with Assets Automatic Cancel",
+    "version": "1.0",
+    "category": "Lusai",
+    "summary": ""
+  },
+  {
+    "folder": "vendors_rfq_mail",
+    "repo": "nextmove-lu-custom",
+    "name": "Vendors RFQ Mail",
+    "version": "16.0",
+    "category": "Purchase",
+    "summary": ""
+  },
+  {
+    "folder": "vendor_approver",
+    "repo": "nextmove-lu-custom",
+    "name": "Multi-Level Approvals for Quotations, Vendor Bills & Vendor Payments",
+    "version": "17.0.1.0",
+    "category": "Accounting/Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "vendor_price_multi_approval",
+    "repo": "nextmove-lu-custom",
+    "name": "Multi Vendor Price Approvals",
+    "version": "1.0",
+    "category": "Purchases",
+    "summary": "Multi-level approvals for vendor pricing"
+  },
+  {
+    "folder": "version_control",
+    "repo": "nextmove-lu-custom",
+    "name": "Version Control Inherit",
+    "version": "N/A",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "customer_seq",
+    "repo": "nextmove-mana-custom",
+    "name": "Customer Sequence",
+    "version": "17.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "documents_upload",
+    "repo": "nextmove-mana-custom",
+    "name": "Customer Files",
+    "version": "17.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "import_sheet",
+    "repo": "nextmove-mana-custom",
+    "name": "Maven- IIMPORT SHEET",
+    "version": "1.0",
+    "category": "Accounts",
+    "summary": ""
+  },
+  {
+    "folder": "account_pdcs",
+    "repo": "nextmove-nm-apps",
+    "name": "SW - Post Dated Cheques Management",
+    "version": "2.3",
+    "category": "Accounting",
+    "summary": "Manage your PDCs in correlation with Odoo\\"
+  },
+  {
+    "folder": "l10n_me",
+    "repo": "nextmove-nm-apps",
+    "name": "Middle East - Accounting",
+    "version": "14.0.1.2",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me_account_asset",
+    "repo": "nextmove-nm-apps",
+    "name": "Middle East - Accounting Assets",
+    "version": "14.0.1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-nm-apps",
+    "name": "Qatar - Accounting",
+    "version": "1.3",
+    "category": "Accounting/Localizations/Account Charts",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_contract",
+    "repo": "nextmove-nm-apps",
+    "name": "NM - Qatar Contract",
+    "version": "1.0",
+    "category": "HR",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_employees",
+    "repo": "nextmove-nm-apps",
+    "name": "NM - Qatar Employee",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "This module customizes In-Place the Employees App by adding new fields and functionality to meet the Qatari market needs."
+  },
+  {
+    "folder": "nm_payment_voucher_report",
+    "repo": "nextmove-nm-apps",
+    "name": "NM - Payment Voucher Report",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "account_pdcs",
+    "repo": "nextmove-nm-custom",
+    "name": "SW - Post Dated Cheques Management",
+    "version": "2.3",
+    "category": "Accounting",
+    "summary": "Manage your PDCs in correlation with Odoo\\"
+  },
+  {
+    "folder": "account_receipt_payment",
+    "repo": "nextmove-nm-custom",
+    "name": "SW - Receipts",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "attendance_api",
+    "repo": "nextmove-nm-custom",
+    "name": "Attendance API",
+    "version": "17.0.1.0.0",
+    "category": "Human Resources",
+    "summary": "REST API + device job queue for the AI-10 palm vein attendance device"
+  },
+  {
+    "folder": "bank_account_info_invoice",
+    "repo": "nextmove-nm-custom",
+    "name": "SW - Bank Account Info Invoice",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "eq_payslip_report",
+    "repo": "nextmove-nm-custom",
+    "name": "Employee Payslip Report",
+    "version": "1.0",
+    "category": "Payroll",
+    "summary": ""
+  },
+  {
+    "folder": "finance_reports_account_filter",
+    "repo": "nextmove-nm-custom",
+    "name": "NM - Finance Reports account filter",
+    "version": "1.0",
+    "category": "NM",
+    "summary": "summary....."
+  },
+  {
+    "folder": "hr_loan",
+    "repo": "nextmove-nm-custom",
+    "name": "SW - Employee Loans Management",
+    "version": "1.3",
+    "category": "Human Resources",
+    "summary": "One significant module to manage all your employees loans"
+  },
+  {
+    "folder": "import_inventory_qty",
+    "repo": "nextmove-nm-custom",
+    "name": "SW - Import Qty to Inventory",
+    "version": "1.0",
+    "category": "Warehouse",
+    "summary": "Create inventory adjustments from excel sheet"
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nextmove-nm-custom",
+    "name": "SW - Journal Entry Reports",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me",
+    "repo": "nextmove-nm-custom",
+    "name": "Middle East - Accounting",
+    "version": "1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me_account_asset",
+    "repo": "nextmove-nm-custom",
+    "name": "Middle East - Accounting Assets",
+    "version": "1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-nm-custom",
+    "name": "Qatar - Accounting",
+    "version": "1.0",
+    "category": "Accounting/Localizations/Account Charts",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_contract",
+    "repo": "nextmove-nm-custom",
+    "name": "NM - Qatar Contract",
+    "version": "1.0",
+    "category": "HR",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_employees",
+    "repo": "nextmove-nm-custom",
+    "name": "NM - Qatar Employee",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "This module customizes In-Place the Employees App by adding new fields and functionality to meet the Qatari market needs."
+  },
+  {
+    "folder": "lynq_connector",
+    "repo": "nextmove-nm-custom",
+    "name": "LynQ Connector",
+    "version": "17.0.1.0.0",
+    "category": "Sales/CRM",
+    "summary": "Integration with LynQ smart digital cards and AI secretary"
+  },
+  {
+    "folder": "mail_multicompany",
+    "repo": "nextmove-nm-custom",
+    "name": "Email Gateway Multi company",
+    "version": "1.0",
+    "category": "Extra Tools",
+    "summary": ""
+  },
+  {
+    "folder": "nm_company_extra_fields",
+    "repo": "nextmove-nm-custom",
+    "name": "company extra filds",
+    "version": "1.0",
+    "category": "hr",
+    "summary": ""
+  },
+  {
+    "folder": "nm_hr_payslip_approval",
+    "repo": "nextmove-nm-custom",
+    "name": "NM - HR Payslip Approval",
+    "version": "1.0",
+    "category": "HR",
+    "summary": ""
+  },
+  {
+    "folder": "nm_l10n_qa_wps",
+    "repo": "nextmove-nm-custom",
+    "name": "SIF - WPS Report",
+    "version": "1.5",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_payment_voucher_report",
+    "repo": "nextmove-nm-custom",
+    "name": "NM - Payment Voucher Report",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "nm_project_documents_workspace",
+    "repo": "nextmove-nm-custom",
+    "name": "NM - Project Documents Workspace ",
+    "version": "1.0",
+    "category": "Documents",
+    "summary": ""
+  },
+  {
+    "folder": "nm_project_management",
+    "repo": "nextmove-nm-custom",
+    "name": "NM - Project Management Core",
+    "version": "17.0.1.0.0",
+    "category": "Project",
+    "summary": "Comprehensive IT project management: CRM-to-project automation, agile methodology, milestones, invoicing, and role-based dashboards."
+  },
+  {
+    "folder": "nm_qa_eoss",
+    "repo": "nextmove-nm-custom",
+    "name": "NM - Qatar End of Service Settelement",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_qa_time_off",
+    "repo": "nextmove-nm-custom",
+    "name": "NM - Time Off Customization",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_subscription_status_helpdesk_ticket",
+    "repo": "nextmove-nm-custom",
+    "name": "NM - Show Subscription Status on Helpdesk Ticket",
+    "version": "1.0",
+    "category": "Services/Helpdesk",
+    "summary": "Ticket Analytic"
+  },
+  {
+    "folder": "nm_ticketing_system",
+    "repo": "nextmove-nm-custom",
+    "name": "NM - Ticketing System",
+    "version": "17.0.1.0.0",
+    "category": "Services/Helpdesk",
+    "summary": "Client ticketing system with Odoo 17 component selection and staff comments"
+  },
+  {
+    "folder": "payroll_extra_fields_rules",
+    "repo": "nextmove-nm-custom",
+    "name": "SW - Payroll Extra Fields/Rules",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "Enhancement on employees"
+  },
+  {
+    "folder": "payroll_extra_fields_rules_ext",
+    "repo": "nextmove-nm-custom",
+    "name": "SW - Payroll Extra Fields/Rules Ext",
+    "version": "1.2",
+    "category": "Human Resources",
+    "summary": "Enhancement on employees"
+  },
+  {
+    "folder": "simple_drive_migration",
+    "repo": "nextmove-nm-custom",
+    "name": "Simple Google Drive Migration",
+    "version": "1.0.0",
+    "category": "Tools",
+    "summary": "Simple migration of Odoo attachments to Google Drive"
+  },
+  {
+    "folder": "account_receipt_payment",
+    "repo": "nextmove-oryx-apps",
+    "name": "SW - Receipts",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "bank_account_info_invoice",
+    "repo": "nextmove-oryx-apps",
+    "name": "SW - Bank Account Info Invoice",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "finance_reports_account_filter",
+    "repo": "nextmove-oryx-apps",
+    "name": "NM - Finance Reports account filter",
+    "version": "1.0",
+    "category": "NM",
+    "summary": "summary....."
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nextmove-oryx-apps",
+    "name": "SW - Journal Entry Reports",
+    "version": "1.2",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me",
+    "repo": "nextmove-oryx-apps",
+    "name": "Middle East - Accounting",
+    "version": "1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-oryx-apps",
+    "name": "Qatar - Accounting",
+    "version": "1.0",
+    "category": "Accounting/Localizations/Account Charts",
+    "summary": ""
+  },
+  {
+    "folder": "nm_payment_voucher_report",
+    "repo": "nextmove-oryx-apps",
+    "name": "NM - Payment Voucher Report",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "account_invoice_report",
+    "repo": "nextmove-oryx-custom",
+    "name": "NM - Account Invoice Report ",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "import_inventory_qty",
+    "repo": "nextmove-oryx-custom",
+    "name": "SW - Import Qty to Inventory",
+    "version": "1.0",
+    "category": "Warehouse",
+    "summary": "Create inventory adjustments from excel sheet"
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nextmove-ovs-apps",
+    "name": "SW - Journal Entry Reports",
+    "version": "1.3",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me",
+    "repo": "nextmove-ovs-apps",
+    "name": "Middle East - Accounting",
+    "version": "14.0.1.2",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me_account_asset",
+    "repo": "nextmove-ovs-apps",
+    "name": "Middle East - Accounting Assets",
+    "version": "14.0.1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-ovs-apps",
+    "name": "Qatar - Accounting",
+    "version": "1.3",
+    "category": "Accounting/Localizations/Account Charts",
+    "summary": ""
+  },
+  {
+    "folder": "external_templates",
+    "repo": "nextmove-ovs-custom",
+    "name": "SW - External Layout",
+    "version": "1.0",
+    "category": "OVS",
+    "summary": ""
+  },
+  {
+    "folder": "snippets_customization",
+    "repo": "nextmove-ovs-custom",
+    "name": "SW - Snippets Customization",
+    "version": "1.4",
+    "category": "SWBS",
+    "summary": ""
+  },
+  {
+    "folder": "attendance_payroll",
+    "repo": "nextmove-own-apps",
+    "name": "NM - Attendance Payroll",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "base_payroll",
+    "repo": "nextmove-own-apps",
+    "name": "NM - HR Base Payroll",
+    "version": "1.5",
+    "category": "Human Resources",
+    "summary": "Enhancement on the Payroll Workflow"
+  },
+  {
+    "folder": "hr_attendance_work_hours",
+    "repo": "nextmove-own-apps",
+    "name": "NM - HR Attendance Work Hours",
+    "version": "1.3",
+    "category": "HR",
+    "summary": "Enhancement on Odoo"
+  },
+  {
+    "folder": "hr_loan",
+    "repo": "nextmove-own-apps",
+    "name": "NM - Employee Loans Management",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "One significant module to manage all your employees loans"
+  },
+  {
+    "folder": "l10n_qa_contract",
+    "repo": "nextmove-own-apps",
+    "name": "NM - Qatar Contract",
+    "version": "1.0",
+    "category": "HR",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_employees",
+    "repo": "nextmove-own-apps",
+    "name": "NM - Qatar Employee",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "This module customizes In-Place the Employees App by adding new fields and functionality to meet the Qatari market needs."
+  },
+  {
+    "folder": "nm_health_wellness_reception_sales",
+    "repo": "nextmove-own-apps",
+    "name": "NM - Health Care and Wellness Reception Sales",
+    "version": "1.0",
+    "category": "Sales",
+    "summary": "summary..."
+  },
+  {
+    "folder": "nm_hr_payslip_approval",
+    "repo": "nextmove-own-apps",
+    "name": "NM - HR Payslip Approval",
+    "version": "0.1",
+    "category": "HR",
+    "summary": ""
+  },
+  {
+    "folder": "nm_l10n_qa_wps",
+    "repo": "nextmove-own-apps",
+    "name": "SIF - WPS Report",
+    "version": "1.5",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_payment_voucher_report",
+    "repo": "nextmove-own-apps",
+    "name": "NM - Payment Voucher Report",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "nm_project_documents_workspace",
+    "repo": "nextmove-own-apps",
+    "name": "NM - Project Documents Workspace ",
+    "version": "1.0",
+    "category": "Documents",
+    "summary": ""
+  },
+  {
+    "folder": "nm_qa_eoss",
+    "repo": "nextmove-own-apps",
+    "name": "NM - Qatar End of Service Settelement",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_qa_overtime",
+    "repo": "nextmove-own-apps",
+    "name": "NextMove Qatar Overtime Management",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_qa_time_off",
+    "repo": "nextmove-own-apps",
+    "name": "NM - Time Off Customization",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_subscription_status_helpdesk_ticket",
+    "repo": "nextmove-own-apps",
+    "name": "NM - Show Subscription Status on Helpdesk Ticket",
+    "version": "15.0.1.0.0",
+    "category": "Services/Helpdesk",
+    "summary": "Ticket Analytic"
+  },
+  {
+    "folder": "payroll_extra_fields_rules_ext",
+    "repo": "nextmove-own-apps",
+    "name": "SW - Payroll Extra Fields/Rules Ext",
+    "version": "1.2",
+    "category": "Human Resources",
+    "summary": "Enhancement on employees"
+  },
+  {
+    "folder": "attendance_payroll",
+    "repo": "nextmove-pmq-apps",
+    "name": "SW - Attendance Payroll",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "base_payroll",
+    "repo": "nextmove-pmq-apps",
+    "name": "SW - HR Base Payroll",
+    "version": "1.5",
+    "category": "Human Resources",
+    "summary": "Enhancement on the Payroll Workflow"
+  },
+  {
+    "folder": "base_payroll_qa",
+    "repo": "nextmove-pmq-apps",
+    "name": "SW - HR Base Payroll Qatar",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "Eliminates work scheduled mismatch & Calculate actual working days."
+  },
+  {
+    "folder": "hr_attendance_work_hours",
+    "repo": "nextmove-pmq-apps",
+    "name": "SW - HR Attendance Work Hours",
+    "version": "1.3",
+    "category": "HR",
+    "summary": "Enhancement on Odoo"
+  },
+  {
+    "folder": "hr_loan",
+    "repo": "nextmove-pmq-apps",
+    "name": "SW - Employee Loans Management",
+    "version": "1.3",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "import_inventory_qty",
+    "repo": "nextmove-pmq-apps",
+    "name": "SW - Import Qty to Inventory",
+    "version": "2.1",
+    "category": "Warehouse",
+    "summary": "Create inventory adjustments from excel sheet"
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nextmove-pmq-apps",
+    "name": "SW - Journal Entry Reports",
+    "version": "1.3",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me",
+    "repo": "nextmove-pmq-apps",
+    "name": "Middle East - Accounting",
+    "version": "14.0.1.2",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me_account_asset",
+    "repo": "nextmove-pmq-apps",
+    "name": "Middle East - Accounting Assets",
+    "version": "14.0.1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-pmq-apps",
+    "name": "Qatar - Accounting",
+    "version": "1.3",
+    "category": "Accounting/Localizations/Account Charts",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_contract",
+    "repo": "nextmove-pmq-apps",
+    "name": "NM - Qatar Contract",
+    "version": "1.0",
+    "category": "HR",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_employees",
+    "repo": "nextmove-pmq-apps",
+    "name": "NM - Qatar Employee",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "This module customizes In-Place the Employees App by adding new fields and functionality to meet the Qatari market needs."
+  },
+  {
+    "folder": "l10n_qa_wps",
+    "repo": "nextmove-pmq-apps",
+    "name": "SIF - WPS Report",
+    "version": "1.2",
+    "category": "Human Resources",
+    "summary": "Generate and Export valid WPS reports."
+  },
+  {
+    "folder": "nm_l10n_qa_wps",
+    "repo": "nextmove-pmq-apps",
+    "name": "SIF - WPS Report",
+    "version": "1.3",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_qa_eoss",
+    "repo": "nextmove-pmq-apps",
+    "name": "NM - Qatar End of Service Settelement",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_qa_overtime",
+    "repo": "nextmove-pmq-apps",
+    "name": "NextMove Qatar Overtime Management",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "order_line_sequence",
+    "repo": "nextmove-pmq-apps",
+    "name": "SW - Order Line Sequence",
+    "version": "1.3",
+    "category": "Extra Tools",
+    "summary": ""
+  },
+  {
+    "folder": "payroll_extra_fields_rules",
+    "repo": "nextmove-pmq-apps",
+    "name": "SW - Payroll Extra Fields/Rules",
+    "version": "1.2",
+    "category": "Human Resources",
+    "summary": "Enhancement on employees"
+  },
+  {
+    "folder": "payroll_extra_fields_rules_ext",
+    "repo": "nextmove-pmq-apps",
+    "name": "SW - Payroll Extra Fields/Rules Ext",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "Enhancement on employees"
+  },
+  {
+    "folder": "sw_approval_follower_activity",
+    "repo": "nextmove-pmq-apps",
+    "name": "SW - Approval Follower Activity",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "Follow Your Approval Request Activities"
+  },
+  {
+    "folder": "ar_customizations",
+    "repo": "nextmove-pmq-custom",
+    "name": "SW - Access Rights Customizations",
+    "version": "1.0",
+    "category": "PMQ",
+    "summary": ""
+  },
+  {
+    "folder": "contacts_customization",
+    "repo": "nextmove-pmq-custom",
+    "name": "SW - Contacts Customizations",
+    "version": "1.0",
+    "category": "PMQ",
+    "summary": ""
+  },
+  {
+    "folder": "default_sales_team",
+    "repo": "nextmove-pmq-custom",
+    "name": "SW - Default Sales Team",
+    "version": "1.0",
+    "category": "PMQ",
+    "summary": "Fixing default sales team issue"
+  },
+  {
+    "folder": "hr_payroll_ext",
+    "repo": "nextmove-pmq-custom",
+    "name": "SW - HR Payroll Ext.",
+    "version": "1.1",
+    "category": "PMQ",
+    "summary": ""
+  },
+  {
+    "folder": "stock_barcode_report",
+    "repo": "nextmove-pmq-custom",
+    "name": "SW - Stock Barcode Report",
+    "version": "1.5",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "templates_customizations",
+    "repo": "nextmove-pmq-custom",
+    "name": "SW - Templates Customizations",
+    "version": "1.6",
+    "category": "PMQ",
+    "summary": ""
+  },
+  {
+    "folder": "warehouse_customization",
+    "repo": "nextmove-pmq-custom",
+    "name": "SW - Warehouse Customizations",
+    "version": "1.0",
+    "category": "PMQ",
+    "summary": ""
+  },
+  {
+    "folder": "account_filter_report",
+    "repo": "nextmove-qc-custom",
+    "name": "Accounts Filter Reports",
+    "version": "18.0.0.0.1",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "biotime_server_integration",
+    "repo": "nextmove-qc-custom",
+    "name": "Biotime Server Integration",
+    "version": "18.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "bi_print_journal_entries",
+    "repo": "nextmove-qc-custom",
+    "name": "Print Journal Entries Report in Odoo",
+    "version": "18.0.0.0",
+    "category": "Accounting",
+    "summary": "Allow to print pdf report of Journal Entries."
+  },
+  {
+    "folder": "cinema_management",
+    "repo": "nextmove-qc-custom",
+    "name": "Cinema Management",
+    "version": "1.7.13",
+    "category": "Services/Entertainment",
+    "summary": "Manage movie theaters, showtimes, and ticket bookings"
+  },
+  {
+    "folder": "dev_hr_loan",
+    "repo": "nextmove-qc-custom",
+    "name": "Employee Loan Management | HR Loan Process Employee",
+    "version": "18.0",
+    "category": "Human Resources",
+    "summary": "employee loan management payroll management employee loan easy process deduction from payslip loan deduction from payslip auto payslip payslip management hr loan management approval loan approval flow employee loan request approval loan management all in one loan management all in one employee all in one hrms loan outstanding letter"
+  },
+  {
+    "folder": "eq_payslip_report",
+    "repo": "nextmove-qc-custom",
+    "name": "Employee Payslip Report",
+    "version": "18.0.1.0",
+    "category": "Payroll",
+    "summary": ""
+  },
+  {
+    "folder": "finance_reports_account_filter",
+    "repo": "nextmove-qc-custom",
+    "name": "NM - Finance Reports account filter",
+    "version": "1.0",
+    "category": "NM",
+    "summary": "summary....."
+  },
+  {
+    "folder": "hr_ovt",
+    "repo": "nextmove-qc-custom",
+    "name": "HR Overtime Management",
+    "version": "18.0.1.0.0",
+    "category": "Human Resources",
+    "summary": "Manage employee shifts, overtime, and attendance policies"
+  },
+  {
+    "folder": "hr_zk_attendance",
+    "repo": "nextmove-qc-custom",
+    "name": "Biometric Device Integration",
+    "version": "18.0.1.0.0",
+    "category": "Human Resources",
+    "summary": "Integrating Biometric Device (Model: ZKteco uFace 202) With HR"
+  },
+  {
+    "folder": "l10n_qa_employees",
+    "repo": "nextmove-qc-custom",
+    "name": "NM - Qatar Employee",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "This module customizes In-Place the Employees App by adding new fields and functionality to meet the Qatari market needs."
+  },
+  {
+    "folder": "mu_print_journal_entries",
+    "repo": "nextmove-qc-custom",
+    "name": "Print Journal Entries Report",
+    "version": "18.0.0.0",
+    "category": "Accounting",
+    "summary": "Professional PDF reports for journal entries with comprehensive details and calculations"
+  },
+  {
+    "folder": "nm_l10n_qa_wps",
+    "repo": "nextmove-qc-custom",
+    "name": "SIF - WPS Report",
+    "version": "1.5",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "odoo-biometric-attendance",
+    "repo": "nextmove-qc-custom",
+    "name": "Zkteco, eSSL, Cams Biometrics Integration Module with HR Attendance",
+    "version": "1.0",
+    "category": "Generic Modules/Human Resources",
+    "summary": "Syncronize employee attendances with biometric devices"
+  },
+  {
+    "folder": "partner_ledger_coa_filter",
+    "repo": "nextmove-qc-custom",
+    "name": "Partner Ledger Chart of Accounts Filter",
+    "version": "1.0",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "payroll_extra_fields_rules",
+    "repo": "nextmove-qc-custom",
+    "name": "SW - Payroll Extra Fields/Rules",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "Enhancement on employees"
+  },
+  {
+    "folder": "payroll_extra_fields_rules_ext",
+    "repo": "nextmove-qc-custom",
+    "name": "SW - Payroll Extra Fields/Rules Ext",
+    "version": "1.2",
+    "category": "Human Resources",
+    "summary": "Enhancement on employees"
+  },
+  {
+    "folder": "pdc_check_print",
+    "repo": "nextmove-qc-custom",
+    "name": "PDC Check Print",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": "Print PDC Checks inside invoices"
+  },
+  {
+    "folder": "pdc_cheques",
+    "repo": "nextmove-qc-custom",
+    "name": "Post Dated Cheques Handling",
+    "version": "18.0.0.2",
+    "category": "Accounting & Finance",
+    "summary": "This modules helps you to manage Post Dated Cheques. cheques management pdc cheques pdc cheque pdc management register post dated checks register PDC PDC payment cheques manage Manage Cheques Manage PDC"
+  },
+  {
+    "folder": "pdc_register",
+    "repo": "nextmove-qc-custom",
+    "name": "PDC Register",
+    "version": "1.0",
+    "category": "Uncategorized",
+    "summary": "Register Post Dated Cheques and create installment invoices"
+  },
+  {
+    "folder": "pdc_register_vendor",
+    "repo": "nextmove-qc-custom",
+    "name": "PDC Register",
+    "version": "1.0",
+    "category": "Uncategorized",
+    "summary": "Register Post Dated Cheques and create installment invoices"
+  },
+  {
+    "folder": "qid",
+    "repo": "nextmove-qc-custom",
+    "name": "HR Employee QID Field",
+    "version": "18.0.1.0.0",
+    "category": "Human Resources",
+    "summary": "Add QID field to HR Employee"
+  },
+  {
+    "folder": "wm_journal_entry_report",
+    "repo": "nextmove-qc-custom",
+    "name": "Journal Entries Report",
+    "version": "1.0.0",
+    "category": "Accounting",
+    "summary": "Print Journal Entries pdf report."
+  },
+  {
+    "folder": "import_inventory_qty",
+    "repo": "nextmove-qh-apps",
+    "name": "SW - Import Qty to Inventory",
+    "version": "2.1",
+    "category": "Warehouse",
+    "summary": "Create inventory adjustments from excel sheet"
+  },
+  {
+    "folder": "inventory_customization",
+    "repo": "nextmove-qh-custom",
+    "name": "SW - Inventory Customization",
+    "version": "1.1",
+    "category": "QH",
+    "summary": ""
+  },
+  {
+    "folder": "payment_payfort",
+    "repo": "nextmove-qinwan-dates-apps",
+    "name": "Payfort Payment Acquirer",
+    "version": "1.1.2",
+    "category": "Website",
+    "summary": ""
+  },
+  {
+    "folder": "payment_payfort_log",
+    "repo": "nextmove-qinwan-dates-apps",
+    "name": "SW - Payfort Payment Acquirer Log",
+    "version": "1.0",
+    "category": "Website",
+    "summary": ""
+  },
+  {
+    "folder": "customize_gifts",
+    "repo": "nextmove-qinwan-dates-custom",
+    "name": "SW - Custom Gifts",
+    "version": "14.0.1.0",
+    "category": "Qinwan",
+    "summary": ""
+  },
+  {
+    "folder": "custom_coupon",
+    "repo": "nextmove-qinwan-dates-custom",
+    "name": "SW - Custom Coupons",
+    "version": "14.0.1.3",
+    "category": "Qinwan",
+    "summary": ""
+  },
+  {
+    "folder": "custom_products",
+    "repo": "nextmove-qinwan-dates-custom",
+    "name": "SW - Custom Products",
+    "version": "3.1",
+    "category": "Qinwan",
+    "summary": ""
+  },
+  {
+    "folder": "delivery_dhl_ext",
+    "repo": "nextmove-qinwan-dates-custom",
+    "name": "DHL Express Shipping EXT",
+    "version": "1.0",
+    "category": "Inventory/Delivery",
+    "summary": ""
+  },
+  {
+    "folder": "image_on_hover",
+    "repo": "nextmove-qinwan-dates-custom",
+    "name": "SW - Product Image on Hover",
+    "version": "14.0.1.0",
+    "category": "Website",
+    "summary": ""
+  },
+  {
+    "folder": "theme_qinwan",
+    "repo": "nextmove-qinwan-dates-custom",
+    "name": "Qinwan theme",
+    "version": "4.6",
+    "category": "Theme/eCommerce",
+    "summary": ""
+  },
+  {
+    "folder": "website_custom",
+    "repo": "nextmove-qinwan-dates-custom",
+    "name": "Website Custom",
+    "version": "1.3",
+    "category": "Website",
+    "summary": ""
+  },
+  {
+    "folder": "website_instagram_feed",
+    "repo": "nextmove-qinwan-dates-custom",
+    "name": "Website Instagram Feed Snippet",
+    "version": "1.3",
+    "category": "Website",
+    "summary": ""
+  },
+  {
+    "folder": "website_scroll_logo",
+    "repo": "nextmove-qinwan-dates-custom",
+    "name": "SW - Website Scroll Logo",
+    "version": "14.0.1.0",
+    "category": "Qinwan",
+    "summary": ""
+  },
+  {
+    "folder": "account_receipt_payment",
+    "repo": "nextmove-qmp-apps",
+    "name": "SW - Receipts",
+    "version": "12.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "import_inventory_qty",
+    "repo": "nextmove-qmp-apps",
+    "name": "SW - Import Qty to Inventory",
+    "version": "2.0",
+    "category": "Warehouse",
+    "summary": "Create inventory adjustments from excel sheet"
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nextmove-qmp-apps",
+    "name": "SW - Journal Entry Reports",
+    "version": "12.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-qmp-apps",
+    "name": "SW - Qatar Accounting",
+    "version": "12.0.1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "mo_raw_material_picking_editing",
+    "repo": "nextmove-qmp-apps",
+    "name": "SW - MO Raw Material Picking - Editing",
+    "version": "1.0",
+    "category": "M    anufacturing",
+    "summary": ""
+  },
+  {
+    "folder": "mrp_sol_cost_estimation",
+    "repo": "nextmove-qmp-apps",
+    "name": "SW - MRP SOL Cost Estimation",
+    "version": "12.0.1.0",
+    "category": "Manufacturing",
+    "summary": ""
+  },
+  {
+    "folder": "mrp_sol_cost_estimation_smallprod",
+    "repo": "nextmove-qmp-apps",
+    "name": "SW - MRP SOL Cost Estimation Smallprod",
+    "version": "12.0.1.0",
+    "category": "Manufacturing",
+    "summary": ""
+  },
+  {
+    "folder": "mto_rfq_no_merge",
+    "repo": "nextmove-qmp-apps",
+    "name": "SW - Prevent RFQ Merge",
+    "version": "12.0.1.1",
+    "category": "Purchases",
+    "summary": ""
+  },
+  {
+    "folder": "order_costing_smallprod",
+    "repo": "nextmove-qmp-apps",
+    "name": "SW - MO Costing",
+    "version": "12.0.1.0",
+    "category": "Customization",
+    "summary": "Module provides product costing facility on manufacturing orders"
+  },
+  {
+    "folder": "order_line_sequence",
+    "repo": "nextmove-qmp-apps",
+    "name": "SW - Order Line Sequence",
+    "version": "12.0.1.2",
+    "category": "Extra Tools",
+    "summary": ""
+  },
+  {
+    "folder": "payment_report_enhancement",
+    "repo": "nextmove-qmp-apps",
+    "name": "SW - Payment Report Enhancement",
+    "version": "12.0.1.3",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "pol_no_merge",
+    "repo": "nextmove-qmp-apps",
+    "name": "SW - Pol no Merge",
+    "version": "12.0.1.0",
+    "category": "Purchases",
+    "summary": ""
+  },
+  {
+    "folder": "sol_dynamic_bom",
+    "repo": "nextmove-qmp-apps",
+    "name": "SW - SOL Dynamic BOM",
+    "version": "12.0.1.0",
+    "category": "Manufacturing",
+    "summary": ""
+  },
+  {
+    "folder": "account_receipt_payment",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - Receipts",
+    "version": "16.0.2",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "external_templates",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - External Template",
+    "version": "16.2.9",
+    "category": "QMP",
+    "summary": ""
+  },
+  {
+    "folder": "fix_purchase_service",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - Fix Purchase Service",
+    "version": "16.0",
+    "category": "QMP",
+    "summary": ""
+  },
+  {
+    "folder": "import_inventory_qty",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - Import Qty to Inventory",
+    "version": "16.0",
+    "category": "Warehouse",
+    "summary": "Create inventory adjustments from excel sheet"
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - Journal Entry Reports",
+    "version": "16.0.1.4",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me",
+    "repo": "nextmove-qmp-custom",
+    "name": "Middle East - Accounting",
+    "version": "16.0.1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - Qatar Accounting",
+    "version": "16.0.1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "mo_raw_material_picking_editing",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - MO Raw Material Picking - Editing",
+    "version": "16.0",
+    "category": "M    anufacturing",
+    "summary": ""
+  },
+  {
+    "folder": "mrp_sol_cost_estimation",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - MRP SOL Cost Estimation",
+    "version": "16.0",
+    "category": "Manufacturing",
+    "summary": ""
+  },
+  {
+    "folder": "mrp_sol_cost_estimation_smallprod",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - MRP SOL Cost Estimation Smallprod",
+    "version": "16.0",
+    "category": "Manufacturing",
+    "summary": ""
+  },
+  {
+    "folder": "mto_rfq_no_merge",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - Prevent RFQ Merge",
+    "version": "16.0",
+    "category": "Purchases",
+    "summary": ""
+  },
+  {
+    "folder": "order_costing_smallprod",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - MO Costing",
+    "version": "16.0",
+    "category": "Customization",
+    "summary": "Module provides product costing facility on manufacturing orders"
+  },
+  {
+    "folder": "order_costing_smallprod_ext",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - MO Costing Ext",
+    "version": "16.0",
+    "category": "QMP",
+    "summary": "This module disables the Labor Cost and Manufacturing Overheads functionality"
+  },
+  {
+    "folder": "order_line_sequence",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - Order Line Sequence",
+    "version": "16.0",
+    "category": "Extra Tools",
+    "summary": ""
+  },
+  {
+    "folder": "partner_ledger_ml_name",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - Partner Ledger ML Name",
+    "version": "16.0",
+    "category": "QMP",
+    "summary": ""
+  },
+  {
+    "folder": "payment_name_update",
+    "repo": "nextmove-qmp-custom",
+    "name": "Payment name update Module",
+    "version": "16.0.1.0.0",
+    "category": "Custom",
+    "summary": ""
+  },
+  {
+    "folder": "payment_report_enhancement",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - Payment Report Enhancement",
+    "version": "16.0.2",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "pol_no_merge",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - Pol no Merge",
+    "version": "16.0",
+    "category": "Purchases",
+    "summary": ""
+  },
+  {
+    "folder": "po_unique_name",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - PO Name Unique",
+    "version": "16.0",
+    "category": "QMP",
+    "summary": ""
+  },
+  {
+    "folder": "res_partner_two",
+    "repo": "nextmove-qmp-custom",
+    "name": "ResPartner Inherit",
+    "version": "N/A",
+    "category": "Uncategorized",
+    "summary": "Odoo 16 Development"
+  },
+  {
+    "folder": "sale_purchase_delivery_note",
+    "repo": "nextmove-qmp-custom",
+    "name": "Sale Purchase Delivery Note",
+    "version": "1.0",
+    "category": "Uncategorized",
+    "summary": "Sale Purchase Description"
+  },
+  {
+    "folder": "sol_commitment_date",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - sol - commitment -  date",
+    "version": "16.0",
+    "category": "QMP",
+    "summary": ""
+  },
+  {
+    "folder": "sol_dynamic_bom",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - SOL Dynamic BOM",
+    "version": "16.0",
+    "category": "Manufacturing",
+    "summary": ""
+  },
+  {
+    "folder": "so_mo_extra_fields",
+    "repo": "nextmove-qmp-custom",
+    "name": "SW - SO-MO Extra Fields",
+    "version": "16.0",
+    "category": "Seventh",
+    "summary": ""
+  },
+  {
+    "folder": "zts_custom_qmp",
+    "repo": "nextmove-qmp-custom",
+    "name": "QMP",
+    "version": "16.0.8",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me",
+    "repo": "nextmove-qsl-apps",
+    "name": "Middle East - Accounting",
+    "version": "1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-qsl-apps",
+    "name": "Qatar - Accounting",
+    "version": "1.0",
+    "category": "Accounting/Localizations/Account Charts",
+    "summary": ""
+  },
+  {
+    "folder": "nm_contact_category",
+    "repo": "nextmove-qsl-custom",
+    "name": "NM - Contact Category",
+    "version": "1.0",
+    "category": "QSL",
+    "summary": "summary..."
+  },
+  {
+    "folder": "account_discount",
+    "repo": "nextmove-retro-apps",
+    "name": "SW - Account Discount",
+    "version": "12.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "account_receipt_payment",
+    "repo": "nextmove-retro-apps",
+    "name": "SW - Receipts",
+    "version": "12.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "auto_backup",
+    "repo": "nextmove-retro-apps",
+    "name": "SW - Auto Backup",
+    "version": "12.0.3.1",
+    "category": "Extra Tools",
+    "summary": "Automated backups"
+  },
+  {
+    "folder": "base_payroll_qa",
+    "repo": "nextmove-retro-apps",
+    "name": "SW - HR Base Payroll Qatar",
+    "version": "12.0.2.1",
+    "category": "Human Resources",
+    "summary": "Eliminates work scheduled mismatch & Calculate actual working days."
+  },
+  {
+    "folder": "hr_eosb",
+    "repo": "nextmove-retro-apps",
+    "name": "SW - End Of Service Benefits",
+    "version": "12.0.1.2",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "hr_loan",
+    "repo": "nextmove-retro-apps",
+    "name": "SW - Employee Loans Management",
+    "version": "12.0.1.1",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "hr_payroll_enhancement",
+    "repo": "nextmove-retro-apps",
+    "name": "SW - HR Payroll Enhancement",
+    "version": "12.0.1.1",
+    "category": "Human Resources",
+    "summary": "Enhancement on Payroll Workflow"
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nextmove-retro-apps",
+    "name": "SW - Journal Entry Reports",
+    "version": "12.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-retro-apps",
+    "name": "SW - Qatar Accounting",
+    "version": "12.0.1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_employees",
+    "repo": "nextmove-retro-apps",
+    "name": "SW - Qatar Employee",
+    "version": "12.0.1.0",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_payroll",
+    "repo": "nextmove-retro-apps",
+    "name": "SW - Qatar Payroll Localization",
+    "version": "12.0.1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_wps",
+    "repo": "nextmove-retro-apps",
+    "name": "SIF - WPS Report",
+    "version": "12.0.1.2",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "payment_report_enhancement",
+    "repo": "nextmove-retro-apps",
+    "name": "SW - Payment Report Enhancement",
+    "version": "12.0.1.3",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "qatar_leave_salary",
+    "repo": "nextmove-retro-apps",
+    "name": "SW - Qatar Leave Salary",
+    "version": "12.0.1.3",
+    "category": "Human Resources",
+    "summary": "Manage Leave Salary."
+  },
+  {
+    "folder": "quotation_revisions",
+    "repo": "nextmove-retro-apps",
+    "name": "SW - Quotation Revisions",
+    "version": "12.0.1.2",
+    "category": "Sales",
+    "summary": "Revise and keep track of all sale orders history with ease"
+  },
+  {
+    "folder": "so_discount",
+    "repo": "nextmove-retro-apps",
+    "name": "SW - SO Discount",
+    "version": "12.0.1.0",
+    "category": "Sales",
+    "summary": ""
+  },
+  {
+    "folder": "work_order_costing",
+    "repo": "nextmove-retro-apps",
+    "name": "SW - MRP Order Costing",
+    "version": "12.0.1.0",
+    "category": "Manufacturing",
+    "summary": "Module provides product costing facility on work orders of manufacturing orders"
+  },
+  {
+    "folder": "account_pdcs",
+    "repo": "nextmove-shwc-apps",
+    "name": "SW - Post Dated Cheques Management",
+    "version": "2.3",
+    "category": "Accounting",
+    "summary": "Manage your PDCs in correlation with Odoo\\"
+  },
+  {
+    "folder": "account_receipt_payment",
+    "repo": "nextmove-shwc-apps",
+    "name": "SW - Receipts",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "bank_account_info_invoice",
+    "repo": "nextmove-shwc-apps",
+    "name": "SW - Bank Account Info Invoice",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "hr_loan",
+    "repo": "nextmove-shwc-apps",
+    "name": "SW - Employee Loans Management",
+    "version": "1.3",
+    "category": "Human Resources",
+    "summary": "One significant module to manage all your employees loans"
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nextmove-shwc-apps",
+    "name": "SW - Journal Entry Reports",
+    "version": "1.2",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me",
+    "repo": "nextmove-shwc-apps",
+    "name": "Middle East - Accounting",
+    "version": "1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me_account_asset",
+    "repo": "nextmove-shwc-apps",
+    "name": "Middle East - Accounting Assets",
+    "version": "14.0.1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-shwc-apps",
+    "name": "Qatar - Accounting",
+    "version": "1.0",
+    "category": "Accounting/Localizations/Account Charts",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_contract",
+    "repo": "nextmove-shwc-apps",
+    "name": "NM - Qatar Contract",
+    "version": "1.0",
+    "category": "HR",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_employees",
+    "repo": "nextmove-shwc-apps",
+    "name": "NM - Qatar Employee",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "This module customizes In-Place the Employees App by adding new fields and functionality to meet the Qatari market needs."
+  },
+  {
+    "folder": "nm_health_wellness_reception_sales",
+    "repo": "nextmove-shwc-apps",
+    "name": "NM - Health Care and Wellness Reception Sales",
+    "version": "1.0",
+    "category": "Sales",
+    "summary": "summary..."
+  },
+  {
+    "folder": "nm_hr_payslip_approval",
+    "repo": "nextmove-shwc-apps",
+    "name": "NM - HR Payslip Approval",
+    "version": "0.1",
+    "category": "HR",
+    "summary": ""
+  },
+  {
+    "folder": "nm_l10n_qa_wps",
+    "repo": "nextmove-shwc-apps",
+    "name": "SIF - WPS Report",
+    "version": "1.5",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_qa_eoss",
+    "repo": "nextmove-shwc-apps",
+    "name": "NM - Qatar End of Service Settelement",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_qa_time_off",
+    "repo": "nextmove-shwc-apps",
+    "name": "NM - Time Off Customization",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "payroll_extra_fields_rules",
+    "repo": "nextmove-shwc-apps",
+    "name": "SW - Payroll Extra Fields/Rules",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "Enhancement on employees"
+  },
+  {
+    "folder": "payroll_extra_fields_rules_ext",
+    "repo": "nextmove-shwc-apps",
+    "name": "SW - Payroll Extra Fields/Rules Ext",
+    "version": "1.2",
+    "category": "Human Resources",
+    "summary": "Enhancement on employees"
+  },
+  {
+    "folder": "nm_appointment",
+    "repo": "nextmove-shwc-custom",
+    "name": "NM - Appointment",
+    "version": "0.1",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "nm_partner_documents_workspace",
+    "repo": "nextmove-shwc-custom",
+    "name": "NM - Partner Documents Workspace ",
+    "version": "1.0",
+    "category": "Documents",
+    "summary": ""
+  },
+  {
+    "folder": "nm_patient_report",
+    "repo": "nextmove-shwc-custom",
+    "name": "NM - Patient Report",
+    "version": "1.3",
+    "category": "Project",
+    "summary": "summary..."
+  },
+  {
+    "folder": "nm_pos_lot_screen",
+    "repo": "nextmove-shwc-custom",
+    "name": "NM - POS Lot Screen",
+    "version": "1.4",
+    "category": "Point of Sale",
+    "summary": ""
+  },
+  {
+    "folder": "nm_pos_report",
+    "repo": "nextmove-shwc-custom",
+    "name": "NM - Custom PoS Report",
+    "version": "1.0",
+    "category": "Point of Sale",
+    "summary": "Add Arabic to the PoS reprot"
+  },
+  {
+    "folder": "nm_reception_treatment_unit",
+    "repo": "nextmove-shwc-custom",
+    "name": "NM - Health Care and Wellness Reception And Treatment Unit",
+    "version": "1.2",
+    "category": "Project",
+    "summary": ""
+  },
+  {
+    "folder": "nm_website_fonts",
+    "repo": "nextmove-shwc-custom",
+    "name": "NM - Custom Website Fonts",
+    "version": "0.2",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "account_receipt_payment",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - Receipts",
+    "version": "12.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "bank_account_info_invoice",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - Bank Account Info Invoice",
+    "version": "12.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "base_payroll_qa",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - HR Base Payroll Qatar",
+    "version": "12.0.2.1",
+    "category": "Human Resources",
+    "summary": "Eliminates work scheduled mismatch & Calculate actual working days."
+  },
+  {
+    "folder": "consignment_sales_managemnet",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - Consignment Sales Managemnet",
+    "version": "12.0.1.0",
+    "category": "Sales",
+    "summary": ""
+  },
+  {
+    "folder": "fix_account_reports_template",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - Fix Account Reports Template ",
+    "version": "12.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "hr_loan",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - Employee Loans Management",
+    "version": "12.0.1.1",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "hr_overtime_management",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - HR Overtime Management",
+    "version": "12.0.1.0",
+    "category": "Human Resources",
+    "summary": "Manage Employees Overtime"
+  },
+  {
+    "folder": "hr_payroll_enhancement",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - HR Payroll Enhancement",
+    "version": "12.0.1.1",
+    "category": "Human Resources",
+    "summary": "Enhancement on Payroll Workflow"
+  },
+  {
+    "folder": "import_inventory_qty",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - Import Qty to Inventory",
+    "version": "2.0",
+    "category": "Warehouse",
+    "summary": "Create inventory adjustments from excel sheet"
+  },
+  {
+    "folder": "invoice_rebates",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - Invoice Rebates",
+    "version": "12.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - Journal Entry Reports",
+    "version": "12.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - Qatar Accounting",
+    "version": "12.0.1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_employees",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - Qatar Employee",
+    "version": "12.0.1.0",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_payroll",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - Qatar Payroll Localization",
+    "version": "12.0.1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_wps",
+    "repo": "nextmove-sky-apps",
+    "name": "SIF - WPS Report",
+    "version": "12.0.1.2",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "order_line_sequence",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - Order Line Sequence",
+    "version": "12.0.1.2",
+    "category": "Extra Tools",
+    "summary": ""
+  },
+  {
+    "folder": "outstanding_report",
+    "repo": "nextmove-sky-apps",
+    "name": "Sw - OutStanding Report",
+    "version": "12.0.1.1",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "payment_report_enhancement",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - Payment Report Enhancement",
+    "version": "12.0.1.3",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "physical_bundles",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - Physical Bundles",
+    "version": "12.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "rfq_separate_sequence",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - RFQ Separate Sequence",
+    "version": "12.0.1.0",
+    "category": "Purchase",
+    "summary": ""
+  },
+  {
+    "folder": "sales_return",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - Sales Return - Credit Note",
+    "version": "12.0.1.0",
+    "category": "Sales",
+    "summary": ""
+  },
+  {
+    "folder": "sol_qty_available",
+    "repo": "nextmove-sky-apps",
+    "name": "SW - SOL Available Quantity",
+    "version": "12.0.1.3",
+    "category": "Sales",
+    "summary": "Allows you to see the on hand, forecasted and available quantities for your product across your companies."
+  },
+  {
+    "folder": "account_receipt_payment",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Receipts",
+    "version": "16.0.1.0.1.2",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "account_receipt_payment_ext",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Account Receipt Payment",
+    "version": "16.0.1.0",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "bank_account_info_invoice",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Bank Account Info Invoice",
+    "version": "16.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "barcod",
+    "repo": "nextmove-sky-custom",
+    "name": "barcod",
+    "version": "16.1",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "barcode_column",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Barcode Column",
+    "version": "16.0.1.2",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "base_payroll_qa",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - HR Base Payroll Qatar",
+    "version": "16.0.2.1",
+    "category": "Human Resources",
+    "summary": "Eliminates work scheduled mismatch & Calculate actual working days."
+  },
+  {
+    "folder": "comparison_sheet",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Comparison Sheet",
+    "version": "16.1.1.1",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "consignment_sales_managemnet",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Consignment Sales Managemnet",
+    "version": "16.0.1.0",
+    "category": "Sales",
+    "summary": ""
+  },
+  {
+    "folder": "employee_documents_expiry",
+    "repo": "nextmove-sky-custom",
+    "name": "Employee Documents",
+    "version": "16.0.1.0.1",
+    "category": "Generic Modules/Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "external_templates",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - External Templates",
+    "version": "16.4.2.11",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "fix_account_reports_template",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Fix Account Reports Template ",
+    "version": "16.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "general_enhancements",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - General Enhancement",
+    "version": "16.0.1.2",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "hr_loan",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Employee Loans Management",
+    "version": "16.0.1.1",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "hr_overtime_management",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - HR Overtime Management",
+    "version": "12.0.1.0",
+    "category": "Human Resources",
+    "summary": "Manage Employees Overtime"
+  },
+  {
+    "folder": "hr_payroll_enhancement",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - HR Payroll Enhancement",
+    "version": "16.0.1.1",
+    "category": "Human Resources",
+    "summary": "Enhancement on Payroll Workflow"
+  },
+  {
+    "folder": "import_inventory_qty",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Import Qty to Inventory",
+    "version": "16.0.2.0",
+    "category": "Warehouse",
+    "summary": "Create inventory adjustments from excel sheet"
+  },
+  {
+    "folder": "installation_page",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Installation Page",
+    "version": "16.0.1.0",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "invoice_delivery_tracking",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Invoice & Delivery Tracking",
+    "version": "16.0.1.0",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "invoice_rebates",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Invoice Rebates",
+    "version": "16.5.1.2",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Journal Entry Reports",
+    "version": "16.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Qatar Accounting",
+    "version": "16.0.1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_employees",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Qatar Employee",
+    "version": "16.0.1.0",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_payroll",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Qatar Payroll Localization",
+    "version": "16.5.3.2",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_wps",
+    "repo": "nextmove-sky-custom",
+    "name": "SIF - WPS Report",
+    "version": "16.0.1.2.1.5",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "order_line_sequence",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Order Line Sequence",
+    "version": "16.0.1.2",
+    "category": "Extra Tools",
+    "summary": ""
+  },
+  {
+    "folder": "outstanding_report",
+    "repo": "nextmove-sky-custom",
+    "name": "Sw - OutStanding Report",
+    "version": "16.0.1.1",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "payment_report_enhancement",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Payment Report Enhancement",
+    "version": "16.0.1.3",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "physical_bundles",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Physical Bundles",
+    "version": "16.0.1.5",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "pol_import",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - POL Import",
+    "version": "16.0.1.5",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "product_aging",
+    "repo": "nextmove-sky-custom",
+    "name": "product_aging",
+    "version": "16.2.1.4",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "product_multiple_barcodes",
+    "repo": "nextmove-sky-custom",
+    "name": "Product Multiple Barcodes",
+    "version": "16.0.1.0",
+    "category": "Uncategorized",
+    "summary": "Allows to define multiple additional barcodes for products and to search products by additional barcodes and internal reference."
+  },
+  {
+    "folder": "report_xlsx",
+    "repo": "nextmove-sky-custom",
+    "name": "Base report xlsx",
+    "version": "16.0.2.0.0",
+    "category": "Reporting",
+    "summary": "Base module to create xlsx report"
+  },
+  {
+    "folder": "retail_trading_workflow",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Retail Trading Workflow",
+    "version": "16.0.1.11",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "rfq_separate_sequence",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - RFQ Separate Sequence",
+    "version": "16.0.1.0",
+    "category": "Purchase",
+    "summary": ""
+  },
+  {
+    "folder": "salesorderform_report",
+    "repo": "nextmove-sky-custom",
+    "name": "zen - Sales Order Form",
+    "version": "16.2.1.1",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "sales_report",
+    "repo": "nextmove-sky-custom",
+    "name": "sales_report",
+    "version": "16.1.1.11",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "sales_restrictions",
+    "repo": "nextmove-sky-custom",
+    "name": "Sw - Sales Restictions",
+    "version": "16.0.1.0",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "sales_return",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Sales Return - Credit Note",
+    "version": "16.0.1.12",
+    "category": "Sales",
+    "summary": ""
+  },
+  {
+    "folder": "sol_qty_available",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - SOL Available Quantity",
+    "version": "16.0.1.3",
+    "category": "Sales",
+    "summary": "Allows you to see the on hand, forecasted and available quantities for your product across your companies."
+  },
+  {
+    "folder": "trading_so_list_view",
+    "repo": "nextmove-sky-custom",
+    "name": "SW - Trading SO List View",
+    "version": "16.1.1.6",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "update_journal_items_accounts",
+    "repo": "nextmove-sky-custom",
+    "name": "Sw - Update Journal Items Accounts",
+    "version": "16.0.0.0",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "zentest",
+    "repo": "nextmove-sky-custom",
+    "name": "zentest",
+    "version": "16.0.0.1",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "attendance_payroll",
+    "repo": "nextmove-sms-apps",
+    "name": "SW - Attendance Payroll",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "base_payroll",
+    "repo": "nextmove-sms-apps",
+    "name": "SW - HR Base Payroll",
+    "version": "1.5",
+    "category": "Human Resources",
+    "summary": "Enhancement on the Payroll Workflow"
+  },
+  {
+    "folder": "bonus_quantity",
+    "repo": "nextmove-sms-apps",
+    "name": "SW - Bonus Quantity",
+    "version": "1.5",
+    "category": "Sales",
+    "summary": "Sales Bonus Quantity Management"
+  },
+  {
+    "folder": "consignment_sales_managemnet",
+    "repo": "nextmove-sms-apps",
+    "name": "SW - Consignment Sales Managemnet",
+    "version": "1.0",
+    "category": "Sales",
+    "summary": ""
+  },
+  {
+    "folder": "contact_product_privileged_creation",
+    "repo": "nextmove-sms-apps",
+    "name": "SW - Contacts & Products Privilege Groups",
+    "version": "1.0",
+    "category": "Extra Tools",
+    "summary": ""
+  },
+  {
+    "folder": "hr_attendance_work_hours",
+    "repo": "nextmove-sms-apps",
+    "name": "SW - HR Attendance Work Hours",
+    "version": "1.3",
+    "category": "HR",
+    "summary": "Enhancement on Odoo"
+  },
+  {
+    "folder": "hr_loan",
+    "repo": "nextmove-sms-apps",
+    "name": "SW - Employee Loans Management",
+    "version": "1.3",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "import_inventory_qty",
+    "repo": "nextmove-sms-apps",
+    "name": "SW - Import Qty to Inventory",
+    "version": "2.1",
+    "category": "Warehouse",
+    "summary": "Create inventory adjustments from excel sheet"
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nextmove-sms-apps",
+    "name": "SW - Journal Entry Reports",
+    "version": "1.3",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me",
+    "repo": "nextmove-sms-apps",
+    "name": "Middle East - Accounting",
+    "version": "14.0.1.2",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_me_account_asset",
+    "repo": "nextmove-sms-apps",
+    "name": "Middle East - Accounting Assets",
+    "version": "14.0.1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-sms-apps",
+    "name": "Qatar - Accounting",
+    "version": "1.3",
+    "category": "Accounting/Localizations/Account Charts",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_check_printing",
+    "repo": "nextmove-sms-apps",
+    "name": "SW - Qatar Check Printing",
+    "version": "1.0",
+    "category": "Accounting/Localizations/Check Printing",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_contract",
+    "repo": "nextmove-sms-apps",
+    "name": "NM - Qatar Contract",
+    "version": "1.0",
+    "category": "HR",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_employees",
+    "repo": "nextmove-sms-apps",
+    "name": "NM - Qatar Employee",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "This module customizes In-Place the Employees App by adding new fields and functionality to meet the Qatari market needs."
+  },
+  {
+    "folder": "nm_l10n_qa_wps",
+    "repo": "nextmove-sms-apps",
+    "name": "SIF - WPS Report",
+    "version": "1.3",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_onsite_marketing",
+    "repo": "nextmove-sms-apps",
+    "name": "SW - Onsite Marketing",
+    "version": "1.7",
+    "category": "Marketing",
+    "summary": ""
+  },
+  {
+    "folder": "nm_payment_voucher_report",
+    "repo": "nextmove-sms-apps",
+    "name": "NM - Payment Voucher Report",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "nm_qa_eoss",
+    "repo": "nextmove-sms-apps",
+    "name": "NM - Qatar End of Service Settelement",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_qa_overtime",
+    "repo": "nextmove-sms-apps",
+    "name": "NextMove Qatar Overtime Management",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "payroll_extra_fields_rules",
+    "repo": "nextmove-sms-apps",
+    "name": "SW - Payroll Extra Fields/Rules",
+    "version": "1.2",
+    "category": "Human Resources",
+    "summary": "Enhancement on employees"
+  },
+  {
+    "folder": "payroll_extra_fields_rules_ext",
+    "repo": "nextmove-sms-apps",
+    "name": "SW - Payroll Extra Fields/Rules Ext",
+    "version": "1.0",
+    "category": "Human Resources",
+    "summary": "Enhancement on employees"
+  },
+  {
+    "folder": "sales_invoice_analysis",
+    "repo": "nextmove-sms-apps",
+    "name": "SW - Sales Invoice Analysis Report",
+    "version": "1.4",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "so_do_qty_notification",
+    "repo": "nextmove-sms-apps",
+    "name": "SW - SO DO Quantity Notification",
+    "version": "1.0",
+    "category": "SALE",
+    "summary": "Notify the product responsible in case SO Qty changed with an activity."
+  },
+  {
+    "folder": "stamped_invoice_copy_tracking",
+    "repo": "nextmove-sms-apps",
+    "name": "SW - Stamped Invoice Copy Tracking",
+    "version": "1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "svl_link",
+    "repo": "nextmove-sms-apps",
+    "name": "SW - Stock Valuation Layer Link",
+    "version": "1.2",
+    "category": "Stock",
+    "summary": ""
+  },
+  {
+    "folder": "wh_enhancement_privileges",
+    "repo": "nextmove-sms-apps",
+    "name": "SW - Product Cost & Qty Privileges",
+    "version": "1.8",
+    "category": "Warehouse",
+    "summary": "Create two new groups Allow see product cost and Allow edit product qty"
+  },
+  {
+    "folder": "accounting_lc_enh",
+    "repo": "nextmove-sms-custom",
+    "name": "SW - Landed Cost Extend",
+    "version": "1.0",
+    "category": "SUMMIT",
+    "summary": "This module adds features to move product default split method to landed cost created from vendor bill."
+  },
+  {
+    "folder": "external_templates",
+    "repo": "nextmove-sms-custom",
+    "name": "SW - External Templates",
+    "version": "1.3",
+    "category": "SMS",
+    "summary": ""
+  },
+  {
+    "folder": "pos_lot_screen",
+    "repo": "nextmove-sms-custom",
+    "name": "SW - POS Lot Screen",
+    "version": "1.4",
+    "category": "Point of Sale",
+    "summary": ""
+  },
+  {
+    "folder": "retail_price",
+    "repo": "nextmove-sms-custom",
+    "name": "SW - Retail Price",
+    "version": "1.0",
+    "category": "SUMMIT",
+    "summary": ""
+  },
+  {
+    "folder": "sales_customization",
+    "repo": "nextmove-sms-custom",
+    "name": "SW - Sales Customization",
+    "version": "1.1",
+    "category": "SUMMIT",
+    "summary": ""
+  },
+  {
+    "folder": "stock_barcode_report",
+    "repo": "nextmove-sms-custom",
+    "name": "SW - Stock Barcode Report",
+    "version": "1.6",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "consignment_sales_managemnet",
+    "repo": "nextmove-summit-apps",
+    "name": "SW - Consignment Sales Managemnet",
+    "version": "11.0.1.0",
+    "category": "Sales",
+    "summary": ""
+  },
+  {
+    "folder": "analytic_details_report",
+    "repo": "nextmove-uei-apps",
+    "name": "SW - Analytic Details Report",
+    "version": "12.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "base_payroll_qa",
+    "repo": "nextmove-uei-apps",
+    "name": "SW - HR Base Payroll Qatar",
+    "version": "12.0.2.1",
+    "category": "Human Resources",
+    "summary": "Eliminates work scheduled mismatch & Calculate actual working days."
+  },
+  {
+    "folder": "employee_leaves_summary",
+    "repo": "nextmove-uei-apps",
+    "name": "SW - Employee Leaves Summary",
+    "version": "12.0.1.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "hr_attendance_zktecho",
+    "repo": "nextmove-uei-apps",
+    "name": "SW - HR Attendance ZKTeco",
+    "version": "12.0.2.5",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nextmove-uei-apps",
+    "name": "SW - Journal Entry Reports",
+    "version": "12.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-uei-apps",
+    "name": "SW - Qatar Accounting",
+    "version": "12.0.1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_wps",
+    "repo": "nextmove-uei-apps",
+    "name": "SIF - WPS Report",
+    "version": "12.0.1.2",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "analytic_details_report",
+    "repo": "nextmove-uei-custom",
+    "name": "SW - Analytic Details Report",
+    "version": "16.0.0.2",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "base_payroll_qa",
+    "repo": "nextmove-uei-custom",
+    "name": "SW - HR Base Payroll Qatar",
+    "version": "16.0.0.0",
+    "category": "Human Resources",
+    "summary": "Eliminates work scheduled mismatch & Calculate actual working days."
+  },
+  {
+    "folder": "bt_hr_overtime_automatic",
+    "repo": "nextmove-uei-custom",
+    "name": "Automatic Overtime Calculation",
+    "version": "16.0.1",
+    "category": "Generic Modules/Human Resources",
+    "summary": "Automatic Overtime Calculation"
+  },
+  {
+    "folder": "custom_payroll_fields",
+    "repo": "nextmove-uei-custom",
+    "name": "SW - Custom Payroll Fields",
+    "version": "16.0.0.0",
+    "category": "UEI",
+    "summary": ""
+  },
+  {
+    "folder": "employee_leaves_summary",
+    "repo": "nextmove-uei-custom",
+    "name": "SW - Employee Leaves Summary",
+    "version": "16.0.0.1",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "employee_leaves_summary_ext",
+    "repo": "nextmove-uei-custom",
+    "name": "SW - Employee Leaves Summary Ext.",
+    "version": "16.0.0.0",
+    "category": "UEI",
+    "summary": ""
+  },
+  {
+    "folder": "hr_attendance_zktecho",
+    "repo": "nextmove-uei-custom",
+    "name": "SW - HR Attendance ZKTeco",
+    "version": "16.0.0.0",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "hr_attendance_zktecho_import",
+    "repo": "nextmove-uei-custom",
+    "name": "SW - HR Attendance ZKTeco Import",
+    "version": "16.0.0.1",
+    "category": "UEI",
+    "summary": ""
+  },
+  {
+    "folder": "hr_employee_updation",
+    "repo": "nextmove-uei-custom",
+    "name": "Open HRMS Employee Info",
+    "version": "16.0.0.3",
+    "category": "Generic Modules/Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "hr_gratuity_settlement",
+    "repo": "nextmove-uei-custom",
+    "name": "Gratuity Settlement and Leave Settlement",
+    "version": "16.0.0.7",
+    "category": "Generic Modules/Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nextmove-uei-custom",
+    "name": "SW - Journal Entry Reports",
+    "version": "16.0.1.7",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nextmove-uei-custom",
+    "name": "Qatar - Accounting",
+    "version": "1.0",
+    "category": "Accounting/Localizations/Account Charts",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_wps",
+    "repo": "nextmove-uei-custom",
+    "name": "SIF - WPS Report",
+    "version": "12.0.1.2",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_wps_ext",
+    "repo": "nextmove-uei-custom",
+    "name": "SIF - WPS Report Ext",
+    "version": "12.0.1.2",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "nm_custom_reports",
+    "repo": "nextmove-uei-custom",
+    "name": "NM Custom Reports",
+    "version": "16.0",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "NM_visa_management",
+    "repo": "nextmove-uei-custom",
+    "name": "Visa Management",
+    "version": "0.1",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "ohrms_loan",
+    "repo": "nextmove-uei-custom",
+    "name": "Open HRMS Loan Management",
+    "version": "16.0.1.0.0",
+    "category": "Generic Modules/Human Resources",
+    "summary": "Manage Loan Requests"
+  },
+  {
+    "folder": "ohrms_loan_accounting",
+    "repo": "nextmove-uei-custom",
+    "name": "Open HRMS Loan Accounting",
+    "version": "16.0.1.0.0",
+    "category": "Generic Modules/Human Resources",
+    "summary": "Open HRMS Loan Accounting"
+  },
+  {
+    "folder": "po_analytic_account_tag",
+    "repo": "nextmove-uei-custom",
+    "name": "SW - PO Analytic Account & Tags",
+    "version": "16.0.0.5",
+    "category": "UEI",
+    "summary": ""
+  },
+  {
+    "folder": "purchase_report_customization",
+    "repo": "nextmove-uei-custom",
+    "name": "SW - Purchase Report Customization",
+    "version": "16.0.0.4",
+    "category": "UEI",
+    "summary": ""
+  },
+  {
+    "folder": "studio_customizations",
+    "repo": "nextmove-uei-custom",
+    "name": "SW - Studio Customizations",
+    "version": "16.0.0.2",
+    "category": "UEI",
+    "summary": ""
+  },
+  {
+    "folder": "nm_project_documents_workspace",
+    "repo": "nm-odoo-app-store",
+    "name": "NM - Project Documents Workspace ",
+    "version": "1.0",
+    "category": "Documents",
+    "summary": ""
+  },
+  {
+    "folder": "nm_subscription_status_helpdesk_ticket",
+    "repo": "nm-odoo-app-store",
+    "name": "NM - Show Subscription Status on Helpdesk Ticket",
+    "version": "15.0.1.0.0",
+    "category": "Services/Helpdesk",
+    "summary": "Ticket Analytic"
+  },
+  {
+    "folder": "account_receipt_payment",
+    "repo": "nm-sky-test",
+    "name": "SW - Receipts",
+    "version": "16.0.1.0.1.2",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "account_receipt_payment_ext",
+    "repo": "nm-sky-test",
+    "name": "SW - Account Receipt Payment",
+    "version": "16.0.1.0",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "bank_account_info_invoice",
+    "repo": "nm-sky-test",
+    "name": "SW - Bank Account Info Invoice",
+    "version": "16.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "barcod",
+    "repo": "nm-sky-test",
+    "name": "barcod",
+    "version": "16.1",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "barcode_column",
+    "repo": "nm-sky-test",
+    "name": "SW - Barcode Column",
+    "version": "16.0.1.2",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "base_payroll_qa",
+    "repo": "nm-sky-test",
+    "name": "SW - HR Base Payroll Qatar",
+    "version": "16.0.2.1",
+    "category": "Human Resources",
+    "summary": "Eliminates work scheduled mismatch & Calculate actual working days."
+  },
+  {
+    "folder": "comparison_sheet",
+    "repo": "nm-sky-test",
+    "name": "SW - Comparison Sheet",
+    "version": "16.1.1.1",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "consignment_sales_managemnet",
+    "repo": "nm-sky-test",
+    "name": "SW - Consignment Sales Managemnet",
+    "version": "16.0.1.0",
+    "category": "Sales",
+    "summary": ""
+  },
+  {
+    "folder": "employee_documents_expiry",
+    "repo": "nm-sky-test",
+    "name": "Employee Documents",
+    "version": "16.0.1.0.1",
+    "category": "Generic Modules/Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "external_templates",
+    "repo": "nm-sky-test",
+    "name": "SW - External Templates",
+    "version": "16.4.2.11",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "fix_account_reports_template",
+    "repo": "nm-sky-test",
+    "name": "SW - Fix Account Reports Template ",
+    "version": "16.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "general_enhancements",
+    "repo": "nm-sky-test",
+    "name": "SW - General Enhancement",
+    "version": "16.0.1.2",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "hr_loan",
+    "repo": "nm-sky-test",
+    "name": "SW - Employee Loans Management",
+    "version": "16.0.1.1",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "hr_overtime_management",
+    "repo": "nm-sky-test",
+    "name": "SW - HR Overtime Management",
+    "version": "12.0.1.0",
+    "category": "Human Resources",
+    "summary": "Manage Employees Overtime"
+  },
+  {
+    "folder": "hr_payroll_enhancement",
+    "repo": "nm-sky-test",
+    "name": "SW - HR Payroll Enhancement",
+    "version": "16.0.1.1",
+    "category": "Human Resources",
+    "summary": "Enhancement on Payroll Workflow"
+  },
+  {
+    "folder": "import_inventory_qty",
+    "repo": "nm-sky-test",
+    "name": "SW - Import Qty to Inventory",
+    "version": "16.0.2.0",
+    "category": "Warehouse",
+    "summary": "Create inventory adjustments from excel sheet"
+  },
+  {
+    "folder": "installation_page",
+    "repo": "nm-sky-test",
+    "name": "SW - Installation Page",
+    "version": "16.0.1.0",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "invoice_delivery_tracking",
+    "repo": "nm-sky-test",
+    "name": "SW - Invoice & Delivery Tracking",
+    "version": "16.0.1.0",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "invoice_rebates",
+    "repo": "nm-sky-test",
+    "name": "SW - Invoice Rebates",
+    "version": "16.5.1.2",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "journal_entry_report",
+    "repo": "nm-sky-test",
+    "name": "Journal Entry Report",
+    "version": "16.0.1.0",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa",
+    "repo": "nm-sky-test",
+    "name": "SW - Qatar Accounting",
+    "version": "16.0.1.0",
+    "category": "Localization",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_employees",
+    "repo": "nm-sky-test",
+    "name": "SW - Qatar Employee",
+    "version": "16.0.1.0",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_payroll",
+    "repo": "nm-sky-test",
+    "name": "SW - Qatar Payroll Localization",
+    "version": "16.5.3.2",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "l10n_qa_wps",
+    "repo": "nm-sky-test",
+    "name": "SIF - WPS Report",
+    "version": "16.0.1.2.1.5",
+    "category": "Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "order_line_sequence",
+    "repo": "nm-sky-test",
+    "name": "SW - Order Line Sequence",
+    "version": "16.0.1.2",
+    "category": "Extra Tools",
+    "summary": ""
+  },
+  {
+    "folder": "outstanding_report",
+    "repo": "nm-sky-test",
+    "name": "Sw - OutStanding Report",
+    "version": "16.0.1.1",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "payment_report_enhancement",
+    "repo": "nm-sky-test",
+    "name": "SW - Payment Report Enhancement",
+    "version": "16.0.1.3",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "physical_bundles",
+    "repo": "nm-sky-test",
+    "name": "SW - Physical Bundles",
+    "version": "16.0.1.5",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "pol_import",
+    "repo": "nm-sky-test",
+    "name": "SW - POL Import",
+    "version": "16.0.1.5",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "product_aging",
+    "repo": "nm-sky-test",
+    "name": "product_aging",
+    "version": "16.2.1.4",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "product_multiple_barcodes",
+    "repo": "nm-sky-test",
+    "name": "Product Multiple Barcodes",
+    "version": "16.0.1.0",
+    "category": "Uncategorized",
+    "summary": "Allows to define multiple additional barcodes for products and to search products by additional barcodes and internal reference."
+  },
+  {
+    "folder": "report_xlsx",
+    "repo": "nm-sky-test",
+    "name": "Base report xlsx",
+    "version": "16.0.2.0.0",
+    "category": "Reporting",
+    "summary": "Base module to create xlsx report"
+  },
+  {
+    "folder": "retail_trading_workflow",
+    "repo": "nm-sky-test",
+    "name": "SW - Retail Trading Workflow",
+    "version": "16.0.1.11",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "rfq_separate_sequence",
+    "repo": "nm-sky-test",
+    "name": "SW - RFQ Separate Sequence",
+    "version": "16.0.1.0",
+    "category": "Purchase",
+    "summary": ""
+  },
+  {
+    "folder": "salesorderform_report",
+    "repo": "nm-sky-test",
+    "name": "zen - Sales Order Form",
+    "version": "16.2.1.1",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "sales_report",
+    "repo": "nm-sky-test",
+    "name": "sales_report",
+    "version": "16.1.1.11",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "sales_restrictions",
+    "repo": "nm-sky-test",
+    "name": "Sw - Sales Restictions",
+    "version": "16.0.1.0",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "sales_return",
+    "repo": "nm-sky-test",
+    "name": "SW - Sales Return - Credit Note",
+    "version": "16.0.1.12",
+    "category": "Sales",
+    "summary": ""
+  },
+  {
+    "folder": "sale_barcode_search",
+    "repo": "nm-sky-test",
+    "name": "Sale Product Search by Barcode",
+    "version": "16.0.1.0.0",
+    "category": "Uncategorized",
+    "summary": "Search product by barcode in sale order line product field"
+  },
+  {
+    "folder": "sol_qty_available",
+    "repo": "nm-sky-test",
+    "name": "SW - SOL Available Quantity",
+    "version": "16.0.1.3",
+    "category": "Sales",
+    "summary": "Allows you to see the on hand, forecasted and available quantities for your product across your companies."
+  },
+  {
+    "folder": "trading_so_list_view",
+    "repo": "nm-sky-test",
+    "name": "SW - Trading SO List View",
+    "version": "16.1.1.6",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "update_journal_items_accounts",
+    "repo": "nm-sky-test",
+    "name": "Sw - Update Journal Items Accounts",
+    "version": "16.0.0.0",
+    "category": "SKY",
+    "summary": ""
+  },
+  {
+    "folder": "zentest",
+    "repo": "nm-sky-test",
+    "name": "zentest",
+    "version": "16.0.0.1",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "account_invoice_discount_app",
+    "repo": "psae-mtm-qatar",
+    "name": "Discounts On Invoices And Bills",
+    "version": "16.0.1.0",
+    "category": "Accounting",
+    "summary": "Vendor Bill Discount customer invoice discount on invoice apply discount on invoice & bill Discount apply vendor bill discount order discount supplier invoice discounts on invoice applying discounts on invoice bill discount apply vendor bills discounts"
+  },
+  {
+    "folder": "aspl_biometric_attendance",
+    "repo": "psae-mtm-qatar",
+    "name": "ESSL Biometric Attendance",
+    "version": "16.0.0.1.0",
+    "category": "Attendance",
+    "summary": "Live attendance updates from ESSL attendance device."
+  },
+  {
+    "folder": "eg_cheque_number_on_payment",
+    "repo": "psae-mtm-qatar",
+    "name": "Cheque Number on Payment",
+    "version": "16.0.1.0.0",
+    "category": "Account",
+    "summary": "This module allows to add cheque number and also image on Payment!"
+  },
+  {
+    "folder": "hide_pos_opencashbox",
+    "repo": "psae-mtm-qatar",
+    "name": "POS Hide Opening Cash Control",
+    "version": "16.0",
+    "category": "Point of Sale",
+    "summary": ""
+  },
+  {
+    "folder": "hr_zk_attendance",
+    "repo": "psae-mtm-qatar",
+    "name": "Biometric Device Integration",
+    "version": "16.0.1.1.0",
+    "category": "Generic Modules/Human Resources",
+    "summary": ""
+  },
+  {
+    "folder": "ivs_accounts_and_analytic_restrictions",
+    "repo": "psae-mtm-qatar",
+    "name": "Accounts and Analytic Restrictions",
+    "version": "0.1",
+    "category": "Accounting",
+    "summary": ""
+  },
+  {
+    "folder": "mvn_customer_seq",
+    "repo": "psae-mtm-qatar",
+    "name": "Customer reference auto generate",
+    "version": "16.0.0.0.1",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "mvn_discount_discount",
+    "repo": "psae-mtm-qatar",
+    "name": "Invoice fixed amount discount",
+    "version": "16.0.0",
+    "category": "Sales",
+    "summary": "Allows to apply fixed amount discounts in invoice orders."
+  },
+  {
+    "folder": "mvn_invoice_complementary",
+    "repo": "psae-mtm-qatar",
+    "name": "Complimentary",
+    "version": "16.0.1.0.0",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "mvn_invoice_fields",
+    "repo": "psae-mtm-qatar",
+    "name": "New fields in invoice form",
+    "version": "16.0.1.0.3",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "mvn_product_added",
+    "repo": "psae-mtm-qatar",
+    "name": "product added order line restrict",
+    "version": "16.0.0",
+    "category": "Sales",
+    "summary": "Allows to apply order line restrictions."
+  },
+  {
+    "folder": "mvn_readonly_unit_price",
+    "repo": "psae-mtm-qatar",
+    "name": "Read Only Unit Price",
+    "version": "16.0.0",
+    "category": "purchase",
+    "summary": ""
+  },
+  {
+    "folder": "mvn_sales_fields",
+    "repo": "psae-mtm-qatar",
+    "name": "New fields in Sales form",
+    "version": "16.0.1.0.3",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "oi_account_payment_employee",
+    "repo": "psae-mtm-qatar",
+    "name": "Payment to Employee",
+    "version": "16.0.1.1.5",
+    "category": "Accounting",
+    "summary": "Employee Payment, Employee Cheque, Reimburse, Employee Claim Payment, "
+  },
+  {
+    "folder": "oi_partner_employee",
+    "repo": "psae-mtm-qatar",
+    "name": "Contacts Employee Filter",
+    "version": "16.0.1.1.2",
+    "category": "Human Resources",
+    "summary": "Contacts Employee Filter, Employee, Contacts, HR, Human Resources, Filter, "
+  },
+  {
+    "folder": "pm_mvn_invoice_fields",
+    "repo": "psae-mtm-qatar",
+    "name": "New fields in invoice form",
+    "version": "16.0.1.0.3",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "pos_cash_opening_zero",
+    "repo": "psae-mtm-qatar",
+    "name": "POS Zero Default Cash Opening",
+    "version": "0.0.1",
+    "category": "Sales/Point of Sale",
+    "summary": "Default POS cash opening value to zero, but allow modification"
+  },
+  {
+    "folder": "print_voucher",
+    "repo": "psae-mtm-qatar",
+    "name": "Receipt and Payment Voucher Print(Payment Receipt)",
+    "version": "16.0.0.1",
+    "category": "Accounting",
+    "summary": "Receipt and Payment Voucher Print(Payment Receipt)."
+  },
+  {
+    "folder": "psae_wps_file",
+    "repo": "psae-mtm-qatar",
+    "name": "PSAE WPS File Generation",
+    "version": "16.0.1.0.1",
+    "category": "Uncategorized",
+    "summary": ""
+  },
+  {
+    "folder": "restrict_products_and_categories",
+    "repo": "psae-mtm-qatar",
+    "name": "Restrict Products and Categories for Users",
+    "version": "16.0.1.0.0",
+    "category": "Extra Tools",
+    "summary": ""
+  },
+  {
+    "folder": "sale_fixed_amount_discount",
+    "repo": "psae-mtm-qatar",
+    "name": "Sale Fixed Amount Discount",
+    "version": "16.0.0.2",
+    "category": "Sales",
+    "summary": "Allows to apply fixed amount discounts in sales orders."
+  },
+  {
+    "folder": "sh_pos_analytic_tags",
+    "repo": "psae-mtm-qatar",
+    "name": "POS Analytic Account",
+    "version": "16.0.2",
+    "category": "Point Of Sale",
+    "summary": "Link Analytic Account Configure Analytic Account Set Analytic Tags Analytic Journal Items, Analytic Journal Entries Point Of Sale Analytic Account Point Of Sale Analytic Tags POS Analytic Tags Odoo"
+  },
+  {
+    "folder": "sr_discount_limit_for_user",
+    "repo": "psae-mtm-qatar",
+    "name": "Discount Limit Per Users",
+    "version": "16.0.0.0",
+    "category": "Extra Addons",
+    "summary": "This app will helps you to set discount limit per users."
+  }
+]
