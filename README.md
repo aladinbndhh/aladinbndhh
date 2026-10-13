@@ -101,16 +101,28 @@ High-impact **Senior Systems Engineer & Full-Stack Solutions Architect** with ex
 
 ---
 
-## 📊 Code & Contribution Metrics
+## 📊 Enterprise Codebase Language Distribution
+
+```text
+Python (Backend & ORM)        ████████████████████████████████████████ 55.4% (3,545+ files)
+XML & QWeb (Views & Reports)  ██████████████████ 25.2% (2,271+ files)
+JavaScript & OWL 2.0 (POS)    ██████████ 14.1% (277+ files)
+PostgreSQL & SQL (Indexing)   ███ 5.3%
+```
+
+| Primary Language / Framework | Scope & Application in Odoo Ecosystem | Production Files | Share |
+| :--- | :--- | :---: | :---: |
+| 🐍 **Python 3** | Core ORM Models, Business Logic, Model Inheritance, REST / JSON-RPC APIs, Automated Actions | **3,545+ files** | **55.4%** |
+| 📄 **XML / QWeb** | View Architecture (Form, Tree, Kanban), QWeb Financial Reports, Security Access Rules | **2,271+ files** | **25.2%** |
+| ⚡ **JavaScript (OWL 2.0)** | Point of Sale (POS) Widgets, Kiosk Touch UI, Custom Web Client Components | **277+ files** | **14.1%** |
+| 🗄️ **PostgreSQL / SQL** | Database Query Optimization, Table Indexing, Data Migrations & Partitioning | Core Engine | **5.3%** |
+
+<br/>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=aladinbndhh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aladinbndhh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aladinbndhh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 
 </div>
 
